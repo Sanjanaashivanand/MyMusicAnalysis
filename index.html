@@ -13,7 +13,7 @@
 </head>
 <body>
   <header>
-    <h1>My Playlist as Data</h1>
+    <h1>Dataify - My Playlist as Data</h1>
     <h4 id="author">
         by: 
         <a href="https://www.linkedin.com/in/sanjana-shivananda/">
@@ -61,7 +61,7 @@
                 <div>
                     <h4>Songs</h4>
                     <i class="fa-solid fa-record-vinyl"></i>
-                    <p>1500+</p>
+                    <p>1700+</p>
                 </div>
 
                 <div>
@@ -76,19 +76,19 @@
 
     <h3>My Playlists</h3>
 
-    <p>For this analysis, I'll focus on nine playlists. Let's begin by determining the number of songs in each playlist.</p>
+    <p>For this analysis, I'll focus on <span>nine playlists</span>. Let's begin by determining the <span>number of songs in each playlist</span>.</p>
 
     <div id="playlist_count"></div>
 
-    <p>"Hodgepodge" stands out as my primary playlist, housing a diverse collection of English music, 
+    <p><a href="https://open.spotify.com/playlist/6jbn1cwPrem1cT1guLU5Zl">"Hodgepodge"</a>stands out as my primary playlist, housing a diverse collection of English music, 
         which explains its higher song count. It's intriguing to discover that playlists I thought I frequently use have relatively few songs. 
         Quality over quantity seems to be the theme. Feel free to click on the bars to navigate to a certain playlist.</p>
     
     <h3>Exploring the Features of my playlist</h3>
     
     <p>
-        Spotify has this cool API from which you can get the audio features of your Music. 
-        here are some features I gathered:
+        Spotify has this cool <a href="https://developer.spotify.com/documentation/web-api/reference/get-audio-features">API</a> from which you can get the audio features of your music. 
+        Here are some features I gathered:
     </p>
     <ul>
       <li><strong>Acousticness:</strong> Measures acoustic elements' presence.</li>
@@ -99,32 +99,35 @@
       <li><strong>Liveness:</strong> Indicates live performance probability.</li>
       <li><strong>Instrumentalness:</strong> Predicts vocal absence.</li>
     </ul>
-    <p>Below is the average audio values of each playlist</p>
+    <p>Below is the <span>average audio values of each playlist</span></p>
 
     <div id="average_music"></div>
 
-    <p>Exploring the graphs is fascinating. Notably, "Groove" and "Sound of Music" show higher instrumentalness,
+    <p>Exploring the graphs is fascinating. Notably, </span><a href="https://open.spotify.com/playlist/18AIhbwCnKN10i2b3WVcRy">"Groove"</a>and 
+       <a href="https://open.spotify.com/playlist/6E6I8G7R4eqTlrVlGsgSnr?si=76da9a0f2ede4433">"Sound of Music"</a>show higher instrumentalness,
          aligning with their roles as study and techno playlists. Despite my love for lyrics, the average speechiness is surprisingly low across.</p>
 
     <h3>Need Music Recommendations? </h3>
-    <p>The artists gracing my playlists are more than just background noise; they're the soundtrack to my life. Each song holds a memory, an emotion, 
-        a connection forged through shared experiences. Inspired by this profound influence, I've woven a visual tapestry - a "hall of frame" - where the 
-        size of each artist's circle reflects their frequency of appearance in my playlists.</p>
+    <p>Here are <span>all the songs in my playlist</span>, color coordinated by valence score.
+         Lighter colors indicate lower valence (sad songs), while darker colors represent happier tunes.</p>
+  
 
     <div id="valence_board"></div>
 
     <h3>A Musical Tapestry: Exploring the Artists Who Shaped My World</h3>
-
-    <p>Explore the artists that have shaped my playlists. The larger the circle, the more times the artist has appeared. 
-    Click the button to reveal the visualization.</p>
+    <p>The artists gracing my playlists are more than just background noise; they're the soundtrack to my life. Each song holds a memory, an emotion, 
+        a connection forged through shared experiences. Inspired by this profound influence, I've woven a <span>visual tapestry - a "hall of frame" </span>- where the 
+        size of each artist's circle reflects their frequency of appearance in my playlists.</p>
 
     <div class="center">
-        <button id="toggleButton" onclick="toggleSvgDisplay()">View Hall of Fame</button>
+        <button id="toggleButton" onclick="toggleSvgDisplay()">Click for Hall of Fame</button>
     </div>
     <div id="artist-bubble"></div>
 
+    <h3>Conclusion</h3>
     <p>Thank you for exploring! I hope you enjoyed the journey through my playlists and found some new tunes. 
-        Feel free to revisit anytime for more musical discoveries.</p>
+        Feel free to revisit anytime for more musical discoveries. If you need more playlists, check out 
+        <a href="https://open.spotify.com/user/tz0j2laeudcuwymfeh15xovgt?si=945fade4b2894300">my spotify profile</a>.For more fun visualizations, follow me on <a href="https://github.com/Sanjanaashivanand">Github</a></p>
 
   </main>
 

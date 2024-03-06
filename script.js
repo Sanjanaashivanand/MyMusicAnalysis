@@ -93,8 +93,8 @@ document.addEventListener('DOMContentLoaded', function () {
             const height = 500,
                 width = 500,
                 outerRadius = height/2 - 40,
-                innerRadius = 50
-                arcPadding = 10;
+                innerRadius = 10
+                arcPadding = 5;
 
             const svg = d3.select("#playlist_count")
                             .append("svg")
