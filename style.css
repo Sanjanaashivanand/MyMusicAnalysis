@@ -15,9 +15,13 @@ main{
     width: 80%;
 }
 
+h1, h4{
+    text-align: center;
+}
+
 .card{
-    width: 60%;
-    height: 300px;
+    width: 50%;
+    height: 250px;
     background: linear-gradient(#92bCa6, #A2CCB6);
     margin-left: auto;
     margin-right: auto;
@@ -26,6 +30,7 @@ main{
     align-items: center;
     border-radius: 10px;
     font-weight: bold;
+    padding-top: 10px;
 
     .card-left{
         width: 40%;
@@ -35,8 +40,8 @@ main{
         align-items: center;
 
         img{
-            width: 200px;
-            height: 200px;
+            width: 150px;
+            height: 150px;
             border-radius: 200px;
             padding: 5px;
             background: rgba(0,0,0,0.15);
@@ -90,14 +95,18 @@ main{
 
 }
 
+#playlist_count{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 #average_music {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(300px, 0.5fr));
     justify-content: center;
     align-items: center; 
 }
-  
 
 .tooltip{
     position: absolute;
@@ -109,6 +118,13 @@ main{
     border: 2px solid darkslategrey;
     border-radius: 10px; 
     font-family: "Roboto Mono", monospace;
+    opacity: 0;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 #toggleButton{
@@ -120,8 +136,17 @@ main{
     margin-right: auto;
 }
 
+#valence_board{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 #artist-bubble{
     width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 #artist-bubble svg{
     margin:auto;
@@ -130,5 +155,4 @@ main{
 #artist-bubble .artist-bubbles{
     cursor: pointer;
 }
-  
   

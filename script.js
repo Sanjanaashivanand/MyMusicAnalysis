@@ -59,12 +59,17 @@ function toggleSvgDisplay() {
             tooltip.html(d.artists + " appeared " + d.count + " times")
             .style("top", (event.clientY + window.scrollY) + "px")
             .style("left", (event.clientX + window.scrollX) + "px")
+            .style("opacity", 1)
           })
           .on("mouseout", function(event, d){
             d3.select(this)
              .transition()
              .duration('50') 
              .style("opacity", 1)
+
+             tooltip
+             .style("opacity", 0)
+
           })
         
         
@@ -85,8 +90,8 @@ function toggleSvgDisplay() {
 document.addEventListener('DOMContentLoaded', function () {
     d3.csv("./playlist_count.csv")
         .then((data) => {
-            const height = 600,
-                width = 600,
+            const height = 500,
+                width = 500,
                 outerRadius = height/2 - 40,
                 innerRadius = 50
                 arcPadding = 10;
@@ -142,13 +147,22 @@ document.addEventListener('DOMContentLoaded', function () {
             let arcs = svg.selectAll("path")
                         .data(data)
                         .enter()
+                        .append("a")
+                        .attr("href", d => d.url) 
+                        .attr("target", "_blank") 
                         .append("path")
                         .attr("d", arc)  // Initial arc path
-                        .attr("fill", (d, i) => d3.interpolatePiYG(i / (data.length + 1)))  
+                        .attr("fill", (d, i) => d3.interpolatePiYG(i / (data.length + 1)))
+                        .on('mouseover', function(d,i){
+                            d3.select(this)
+                                .style('opacity', 0.5)
+                        })
+                        .on('mouseout', function(d,i){
+                            d3.select(this)
+                                .style('opacity', 1)
+                        })
                     
-                    
-                            
-                            
+                          
             let radialAxis = svg.append("g")
                                 .attr('class', 'r-axis')
                                 .selectAll("g")
@@ -160,13 +174,9 @@ document.addEventListener('DOMContentLoaded', function () {
             radialAxis.append("text")
                         .attr("x", -5)
                         .attr('y', (d, i) => -(innerRadius + (numArcs - i+1) * (arcWidth + arcPadding)  + arcWidth) + arcPadding)
-                        .text(d => d.Category)
+                        .text(d => d.name)
                         .attr("text-anchor", "end");
-        
-            
-            
-
-            
+      
     });
     
     d3.csv("./average_music.csv")
@@ -287,13 +297,13 @@ document.addEventListener('DOMContentLoaded', function () {
                         .append("g")
                         .attr("transform", 'translate(' + padding + "," + padding + ')');
 
-        const tooltip  = d3.select("body")
+        const tooltip  = d3.select("#valence_board")
                         .append("div")
                         .attr("class", "tooltip")
 
                 
 
-        const circleSpacing = 10; // Adjust the spacing value as needed
+        const circleSpacing = 10; 
 
         svg.selectAll("circle")
             .data(data)
@@ -303,19 +313,24 @@ document.addEventListener('DOMContentLoaded', function () {
             .attr("r", 7)
             .style("fill", d => d3.interpolateGnBu(d.valence))
             .style("opacity", '0.5')
-            .on('mouseover', function(event,d, i){
+            .on('mouseover', function(event,d){
                 d3.select(this)
                     .transition()
                     .duration('50') 
                     .style("opacity", 1)
 
                 tooltip.html(`<strong>Track:</strong> ${d.track_name}<br>
-                <strong>Artist:</strong> ${d.artists}<br>
-                <strong>Album:</strong> ${d.album}`)
+                                <strong>Artist:</strong> ${d.artists}<br>
+                                <strong>Album:</strong> ${d.album}`)
                     .style("top", (event.clientY + window.scrollY) + "px")
                     .style("left", (event.clientX + window.scrollX) + "px")
+                    .style("opacity", 1)
 
             })
+            .on("mouseout", function () {
+                tooltip.style("opacity", 0);
+            });
+           
             
         
     })
