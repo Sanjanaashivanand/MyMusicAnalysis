@@ -20,7 +20,6 @@ function toggleSvgDisplay() {
           .force("center", d3.forceCenter(width / 2, height/2 )) // Centering force
           .force("charge", d3.forceManyBody().strength(d => -d.count))
           
-        
 
         svg.append("defs")
           .selectAll("pattern")
@@ -56,10 +55,13 @@ function toggleSvgDisplay() {
             .duration('50') 
             .style("opacity", 1)
             
-            tooltip.html(d.artists + " appeared " + d.count + " times")
-            .style("top", (event.clientY + window.scrollY) + "px")
-            .style("left", (event.clientX + window.scrollX) + "px")
-            .style("opacity", 1)
+            if(window.innerWidth>=700){
+                tooltip.html(d.artists + " appeared " + d.count + " times")
+                        .style("top", (event.clientY + window.scrollY) + "px")
+                        .style("left", (event.clientX + window.scrollX) + "px")
+                        .style("opacity", 1)
+            }
+            
           })
           .on("mouseout", function(event, d){
             d3.select(this)
@@ -67,8 +69,10 @@ function toggleSvgDisplay() {
              .duration('50') 
              .style("opacity", 1)
 
-             tooltip
-             .style("opacity", 0)
+            if(window.innerWidth>=700){
+                tooltip
+                .style("opacity", 0)
+            }
 
           })
         
@@ -91,7 +95,7 @@ document.addEventListener('DOMContentLoaded', function () {
     d3.csv("./playlist_count.csv")
         .then((data) => {
             const height = 500,
-                width = 500,
+                width =  Math.min(window.innerWidth, 500),
                 outerRadius = height/2 - 40,
                 innerRadius = 10
                 arcPadding = 5;
@@ -312,23 +316,30 @@ document.addEventListener('DOMContentLoaded', function () {
             .attr("cy", (d, i) => Math.floor(i / 50) * 20)
             .attr("r", 7)
             .style("fill", d => d3.interpolateGnBu(d.valence))
-            .style("opacity", '0.5')
+            .style("opacity", '1')
             .on('mouseover', function(event,d){
                 d3.select(this)
                     .transition()
                     .duration('50') 
-                    .style("opacity", 1)
+                    .style("border-width", "2px")
+                    .attr("stroke", d => d3.interpolateGnBu(d.valence))
+                    .attr("stroke-width", 2)
+                    .style("fill-opacity", '0.5')
 
-                tooltip.html(`<strong>Track:</strong> ${d.track_name}<br>
+                if(window.innerWidth>=700){
+                    tooltip.html(`<strong>Track:</strong> ${d.track_name}<br>
                                 <strong>Artist:</strong> ${d.artists}<br>
                                 <strong>Album:</strong> ${d.album}`)
                     .style("top", (event.clientY + window.scrollY) + "px")
                     .style("left", (event.clientX + window.scrollX) + "px")
                     .style("opacity", 1)
+                }
 
             })
             .on("mouseout", function () {
-                tooltip.style("opacity", 0);
+                if(window.innerWidth>=700){
+                    tooltip.style("opacity", 0);
+                }
             });
            
             

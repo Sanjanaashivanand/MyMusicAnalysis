@@ -167,6 +167,10 @@ h2, h3{
         width: 100%
     }
 
+    .tooltip-hidden{
+        display: none;
+    }
+
     .card{
         width: 350px;
         height: 500px;
