@@ -38,78 +38,58 @@ h2, h3{
 
 .card{
     width: 50%;
-    height: 250px;
-    background: linear-gradient(#92bCa6, #A2CCB6);
     margin-left: auto;
     margin-right: auto;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
+    padding: 20px;
     border-radius: 10px;
-    font-weight: bold;
-    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(#92bCa6, #A2CCB6);
+    color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
 
-    .card-left{
-        width: 40%;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
+.card img{
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+    background-color: #A2CCB6;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
 
-        img{
-            width: 150px;
-            height: 150px;
-            border-radius: 200px;
-            padding: 5px;
-            background: rgba(0,0,0,0.15);
-        }
+.card-left{
+    flex: 1;
+}
 
-        p{
-            color: #fff;
-            text-transform: uppercase;
-            font-size: 0.75em;
-            font-weight: bold;
-            background: rgba(0,0,0,0.15);
-            padding: 0.125rem 0.75rem;
-            border-radius: 100px;
-            white-space: nowrap;
-            width: fit-content;
-        }
+.card-left p{
+    text-align: center;
+    background-color: #92bCa6;
+    padding: 5px;
+    border-radius: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
 
-    }
+.card-right{
+    flex: 2;
+}
 
-    .card-right{
-        width: 60%;
-        padding: 20px;
-        color: #fff;
-        
-        p{
-            text-align: right;
-        }
+.card-right p{
+    text-align: right;
+}
 
-        .stats{
-            width: 100%;
-            display: flex;
-            justify-content: flex-start;
-            align-items: center;
-            
+.stats{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
 
-            div{
-                padding: 10px;
-                margin: 10px;
-
-                h6, p{
-                    text-align: center;
-                }
-            }
-
-            i{
-                font-size: 50px;
-                color: #ffffffd3;
-            }
-        }
-    }
-
+.stats i{
+    font-size: 50px;
 }
 
 #playlist_count{
@@ -124,6 +104,11 @@ h2, h3{
     gap: 10px;
     justify-content: center;
     align-items: center;
+}
+
+#average_music svg{
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .tooltip{
@@ -149,9 +134,11 @@ h2, h3{
     border: 2px solid darkslategrey;
     padding: 20px;
     border-radius: 10px; 
-    background-color: #92bca64c;
+    background-color: #a2ccb662;
     margin-left: auto;
     margin-right: auto;
+    font-weight: bolder;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 #valence_board{
@@ -159,6 +146,7 @@ h2, h3{
     justify-content: center;
     align-items: center;
 }
+
 
 #artist-bubble{
     width: 100%;
@@ -172,5 +160,40 @@ h2, h3{
 
 #artist-bubble .artist-bubbles{
     cursor: pointer;
+}
+
+@media (max-width:700px) {
+    main{
+        width: 100%
+    }
+
+    .card{
+        width: 350px;
+        height: 500px;
+    }
+
+    .card, .card-left, .card-right{
+        flex-direction: column;
+    }
+
+    .card-right{
+        width: 100%;
+        color: #fff;
+        
+        p{
+            text-align: center;
+        }
+
+        .stats{
+            width: 350px;
+            margin: 0;
+            padding: 0;
+
+            i{
+                font-size: 50px;
+                color: #ffffffd3;
+            }
+        }
+    }
 }
   

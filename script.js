@@ -4,7 +4,7 @@ function toggleSvgDisplay() {
 
     d3.csv("./artist_details.csv")
     .then((data)=>{
-        const width = window.innerWidth * 3/4;
+        const width = Math.min(window.innerWidth, 960);
         const height = window.innerHeight * 3/4;
         
         const svg = d3.select("#artist-bubble")
@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', function () {
                             .attr("height", height + 100)
                             .attr("width", width + 100)
                             .append("g")
-                            .attr("transform", 'translate(' + (width / 2 + 50) + "," + (height / 2 + 50) + ')');
+                            .attr("transform", 'translate(' + (width / 2 +20) + "," + (height / 2 +50) + ')');
             
             const scale = d3.scaleLinear()
                             .domain([0,1200])
@@ -286,9 +286,9 @@ document.addEventListener('DOMContentLoaded', function () {
     d3.csv("./valence_scores.csv")
     .then(data => {
         console.log("New Data", data)
-        const width = 960,
+        const width = Math.min(window.innerWidth, 960),
                 height  = 600,
-                padding = 50;
+                padding = 10;
         
         const svg  = d3.select("#valence_board")
                         .append("svg")
