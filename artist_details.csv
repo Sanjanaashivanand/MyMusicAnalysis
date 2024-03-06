@@ -1,0 +1,707 @@
+artist_ids,artists,count,href,genre,image,popularity
+0tC995Rfn9k2l7nqgCZsV7,Prateek Kuhad,47,https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7,"['desi pop', 'folk-pop', 'hindi indie', 'indian indie', 'indian singer-songwriter']",https://i.scdn.co/image/ab6761610000e5ebf1018033a0e38dd39489d95f,62
+06HL4z0CvFAxyc27GXpf02,Taylor Swift,44,https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02,['pop'],https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4,100
+4AK6F7OLvEQ5QYCBNiQWHq,One Direction,41,https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq,"['boy band', 'pop', 'post-teen pop', 'talent show']",https://i.scdn.co/image/5bb443424a1ad71603c43d67f5af1a04da6bb3c8,83
+4YRxDV8wJFPHPTeXepOstw,Arijit Singh,25,https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb0261696c5df3be99da6ed3f3,89
+6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,24,https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V,"['pop', 'singer-songwriter pop', 'uk pop']",https://i.scdn.co/image/ab6761610000e5eb3bcef85e105dfc42399ef0ba,87
+4gzpq5DPGxSnKTe4SA8HAU,Coldplay,20,https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU,"['permanent wave', 'pop']",https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3,87
+1wRPtKGflJrBx9BmLsSwlU,Pritam,20,https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU,"['filmi', 'indian instrumental', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5ebcb6926f44f620555ba444fca,87
+7n2wHs1TKAczGzO7Dd2rGr,Shawn Mendes,18,https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr,"['canadian pop', 'pop', 'viral pop']",https://i.scdn.co/image/ab6761610000e5eb93e1fe183be0aebda170283a,82
+5JZ7CnR6gTvEMKX4g70Amv,Lauv,18,https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv,['pop'],https://i.scdn.co/image/ab6761610000e5eb9c0eb37411c26ff54c29dcb6,75
+6S2OmqARrzebs0tKUEyXyp,Demi Lovato,18,https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp,"['pop', 'post-teen pop']",https://i.scdn.co/image/ab6761610000e5ebcf674ecb51186e6408cd18c0,77
+3gIRvgZssIb9aiirIg0nI3,Jeremy Zucker,17,https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3,"['alt z', 'electropop', 'pop']",https://i.scdn.co/image/ab6761610000e5ebf7f92c35d54d37bf8a0a4ca1,68
+0C8ZW7ezQVs4URX5aX7Kqx,Selena Gomez,17,https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx,"['pop', 'post-teen pop']",https://i.scdn.co/image/ab6761610000e5ebc3c753851496854e29abff7a,82
+5Pwc4xIPtQLFEnJriah9YJ,OneRepublic,16,https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ,"['piano rock', 'pop']",https://i.scdn.co/image/ab6761610000e5eb57138b98e7ddd5a86ee97a9b,82
+4gdMJYnopf2nEUcanAwstx,Anuv Jain,14,https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx,"['desi pop', 'hindi indie', 'indian indie', 'indian singer-songwriter']",https://i.scdn.co/image/ab6761610000e5eba837a6cb82dd949d5e1f9b53,72
+1z7b1Pr1rSlvWRzsW3HOrS,Russ,14,https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS,"['hawaiian hip hop', 'pop rap']",https://i.scdn.co/image/ab6761610000e5ebff58853777d52a0bbb1a78da,75
+5pKCCKE2ajJHZ9KAiaK11H,Rihanna,14,https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H,"['barbadian pop', 'pop', 'urban contemporary']",https://i.scdn.co/image/ab6761610000e5eb99e4fca7c0b7cb166d915789,90
+6s22t5Y3prQHyaHWUN1R1C,AJR,14,https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C,['pov: indie'],https://i.scdn.co/image/ab6761610000e5ebe65fa0329c232ac6f5040f80,73
+0du5cEVh5yTK9QJze8zA0C,Bruno Mars,13,https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C,"['dance pop', 'pop']",https://i.scdn.co/image/ab6761610000e5ebc36dd9eb55fb0db4911f25dd,88
+0oOet2f43PA68X5RxKobEy,Shreya Ghoshal,13,https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb36a7262247318ff0f1ad00da,81
+7dGJo4pcD2V6oG8kP0tJRR,Eminem,13,https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR,"['detroit hip hop', 'hip hop', 'rap']",https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b,90
+3NubHY877ST4kyTq01CC6E,Sad Songs for Happy People,12,https://open.spotify.com/artist/3NubHY877ST4kyTq01CC6E,[],https://i.scdn.co/image/ab6761610000e5eb8f5603efd92631d3acf43194,1
+1QAJqy2dA3ihHBFIHRphZj,Cigarettes After Sex,12,https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj,"['ambient pop', 'dream pop', 'el paso indie', 'shoegaze']",https://i.scdn.co/image/ab6761610000e5eb02f8a809f97454e67a648c67,82
+5GnnSrwNCGyfAU4zuIytiS,Mohit Chauhan,12,https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb16691117e2ba803946b203ba,73
+1mYsTxnqsietFxj1OgoGbG,A.R. Rahman,11,https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG,['filmi'],https://i.scdn.co/image/ab6761610000e5ebb19af0ea736c6228d6eb539c,79
+3WrFJ7ztbogyGnTHbHJFl2,The Beatles,11,https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2,"['british invasion', 'classic rock', 'merseybeat', 'psychedelic rock', 'rock']",https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433,84
+5WUlDfRSoLAfcVSX1WnrxN,Sia,11,https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN,"['australian dance', 'australian pop', 'pop']",https://i.scdn.co/image/ab6761610000e5eb7c997fe6951bc0926f09ba38,83
+1uNFoZAHBGtllmzznpCI3s,Justin Bieber,11,https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s,"['canadian pop', 'pop']",https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36,89
+3MZsBdqDrRTJihTHQrO6Dq,Joji,11,https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq,['viral pop'],https://i.scdn.co/image/ab6761610000e5eb4111c95b5f430c3265c7304b,78
+1dVygo6tRFXC8CSWURQJq2,Sonu Nigam,11,https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5ebbc959d7569618ec2af2210f5,75
+6qqNVTkY8uBg9cP3Jd7DAH,Billie Eilish,10,https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH,"['art pop', 'pop']",https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf,88
+0uTTX3h4w3LJY4EEqg82On,Abhishek Roy,10,https://open.spotify.com/artist/0uTTX3h4w3LJY4EEqg82On,[],https://i.scdn.co/image/ab6761610000e5eb15bec02946b724b3ee6fbe3b,3
+7vk5e3vY1uw9plTHJAMwjN,Alan Walker,10,https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN,['electro house'],https://i.scdn.co/image/ab6761610000e5ebbf753c009fd9c2d53351dd3c,80
+1Xyo4u8uXC1ZmMpatF05PJ,The Weeknd,10,https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ,"['canadian contemporary r&b', 'canadian pop', 'pop']",https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb,95
+3eDT9fwXKuHWFvgZaaYC5v,Sunidhi Chauhan,10,https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb21a9a4198a25ad25ff3c45ff,73
+4LEiUm1SRbFMgfqnQTwUbQ,Bon Iver,10,https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ,"['chamber pop', 'eau claire indie', 'indie folk', 'melancholia', 'modern rock']",https://i.scdn.co/image/ab6761610000e5eb67be065df01f37a3880216be,75
+7Ln80lUS6He07XvHI8qqHH,Arctic Monkeys,9,https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f,86
+4kYSro6naA4h99UJvo89HB,Cardi B,9,https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB,"['pop', 'rap']",https://i.scdn.co/image/ab6761610000e5ebcb20fdd7386ecab9d34d0e71,78
+7HCqGPJcQTyGJ2yqntbuyr,Amit Trivedi,9,https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb1dcbb331f2318db2dd2c6bcf,68
+3WGpXCj9YhhfX11TToZcXP,Troye Sivan,9,https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP,"['australian pop', 'pop', 'viral pop']",https://i.scdn.co/image/ab6761610000e5eb26e8cb3ff6fc7744b312811b,78
+04hYGGSjYtLekuuJXEGrIl,When Chai Met Toast,9,https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl,"['folk-pop', 'indian indie', 'malayalam indie']",https://i.scdn.co/image/ab6761610000e5eb0198afae925e87d931ec5f7c,45
+6Mv8GjQa7LKUGCAqa9qqdb,Vishal-Shekhar,8,https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb90b6c3d093f9b02aad628eaf,75
+4MXUO7sVCaFgFjoTI5ox5c,Sufjan Stevens,8,https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c,"['art pop', 'baroque pop', 'chamber pop', 'indie pop', 'indie rock', 'singer-songwriter']",https://i.scdn.co/image/ab6761610000e5ebb80dd6b23c5c04d62d9aa0c6,70
+5p7f24Rk5HkUZsaS3BLG5F,Hailee Steinfeld,8,https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F,['pop'],https://i.scdn.co/image/ab6761610000e5eba961383967f3a3a54e794a15,68
+1HY2Jd0NmPuamShAr6KMms,Lady Gaga,8,https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms,"['art pop', 'dance pop', 'pop']",https://i.scdn.co/image/ab6761610000e5ebc8d3d98a1bccbe71393dbfbf,84
+2YZyLoL8N0Wb9xBt1NhZWg,Kendrick Lamar,8,https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg,"['conscious hip hop', 'hip hop', 'rap', 'west coast rap']",https://i.scdn.co/image/ab6761610000e5eb437b9e2a82505b3d93ff1022,88
+60d24wfXkVzDSfLS6hyCjZ,Martin Garrix,8,https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ,"['dutch edm', 'edm', 'pop', 'pop dance', 'progressive house']",https://i.scdn.co/image/ab6761610000e5eb45c3688488f871aace7a4a57,75
+2qxJFvFYMEDqd7ui6kSAcq,Zedd,8,https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq,"['complextro', 'edm', 'german techno', 'pop', 'pop dance']",https://i.scdn.co/image/ab6761610000e5ebf801e3d9ecb568a1c3c62393,73
+3e7awlrlDSwF3iM0WBjGMp,Little Mix,8,https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp,"['girl group', 'pop', 'talent show', 'uk pop']",https://i.scdn.co/image/ab6761610000e5eb08cd53940cbf5813ee5fe565,73
+3cqeO3muWIW5uSmUDNCmyT,Rekha Bhardwaj,8,https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb1b8709e71a55317386d46e57,63
+69GGBxA162lTqCwzJG5jLp,The Chainsmokers,7,https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp,['pop'],https://i.scdn.co/image/ab6761610000e5ebdb68d678df6d89bf8a55d052,79
+3TVXtAsR1Inumwj472S9r4,Drake,7,https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4,"['canadian hip hop', 'canadian pop', 'hip hop', 'pop rap', 'rap']",https://i.scdn.co/image/ab6761610000e5eb4293385d324db8558179afd9,96
+39fT56OHEL2E98zDKrqBsC,Nikhil D'Souza,7,https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC,"['desi pop', 'indian indie', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5ebfd223c20cbc4fb2eef4d0697,57
+04gDigrS5kc9YWfZHwBETP,Maroon 5,7,https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP,['pop'],https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77,85
+4IKVDbCSBTxBeAsMKjAuTs,Armaan Malik,7,https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5ebc5911f22814f270d5004ae53,72
+53XhwfbYqKCa1cC15pYq2q,Imagine Dragons,7,https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q,"['modern rock', 'pop', 'rock']",https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e,86
+1mBydYMVBECdDmMfE2sEUO,Sachin-Jigar,7,https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO,"['filmi', 'gujarati pop', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eba038d7d87f8577bbb9686bd3,75
+77BznF1Dr1k5KyEZ6Nn3jB,Vancouver Sleep Clinic,7,https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB,['vapor pop'],https://i.scdn.co/image/ab6761610000e5eb79471c7506e3c12bd52cc616,61
+0jnsk9HBra6NMjO2oANoPY,Flo Rida,7,https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY,"['dance pop', 'miami hip hop', 'pop', 'pop rap']",https://i.scdn.co/image/ab6761610000e5eb655ca8f3196953554b479452,79
+6vWDO969PvNqNYHIOW5v0m,Beyoncé,6,https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m,"['pop', 'r&b']",https://i.scdn.co/image/ab6761610000e5eb2b7962ada66cbea99dcb0caa,87
+2k66ibJfgMigF5QWqUgLyR,OAFF,6,https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR,['indian indie'],https://i.scdn.co/image/ab6761610000e5eb7ad0e4ab865f24a17c0de9d7,54
+4BxCuXFJrSWGi1KHcVqaU4,Kodaline,6,https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4,"['irish pop', 'modern rock']",https://i.scdn.co/image/ab6761610000e5eb0b99560e4162fe239ac6d3ba,68
+1Hsdzj7Dlq2I7tHP7501T4,Niall Horan,6,https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4,['pop'],https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897,76
+6LuN9FCkKOj5PcnpouEgny,Khalid,6,https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny,"['pop', 'pop r&b']",https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf,82
+3AQRLZ9PuTAozP28Skbq8V,The Script,6,https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V,"['celtic rock', 'pop']",https://i.scdn.co/image/ab6761610000e5eb17287dc33dcde4a69fd71b59,73
+1moxjboGR7GNWYIMWsRjgG,Florence + The Machine,6,https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG,"['baroque pop', 'electropop', 'modern rock', 'uk alternative pop']",https://i.scdn.co/image/ab6761610000e5ebe3c37f869b830d1cf1ec829a,76
+5SuRAj1A9FEHj5NxS86YAm,Shafqat Amanat Ali,6,https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm,"['classic pakistani pop', 'filmi', 'modern bollywood', 'sufi']",https://i.scdn.co/image/ab6761610000e5eb3a597aea2383628fa4993388,64
+5NXHXK6hOCotCF8lvGM1I0,Porcupine Tree,6,https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0,"['progressive metal', 'progressive rock']",https://i.scdn.co/image/ab6761610000e5ebc4f72407be5d96db73982400,54
+1SJOL9HJ08YOn92lFcYf8a,Shankar Mahadevan,6,https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a,['filmi'],https://i.scdn.co/image/ab6761610000e5eb3f27a828c24d73cf0427e2e7,74
+1ciT67XXpG2HOVsLQjKdv6,Ankur Tewari,6,https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6,"['indian indie', 'indian rock', 'indian singer-songwriter']",https://i.scdn.co/image/ab6761610000e5eb9634e68f7dcece892b577f17,52
+56oDRnqbIiwx4mymNEv7dS,Lizzo,6,https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS,"['escape room', 'minnesota hip hop', 'pop', 'trap queen']",https://i.scdn.co/image/ab6761610000e5eb0d66b3670294bf801847dae2,71
+00FQb4jTyendYWaN8pK0wa,Lana Del Rey,6,https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa,"['art pop', 'pop']",https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261,90
+0ZED1XzwlLHW4ZaG4lOT6m,Julia Michaels,6,https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m,['pop'],https://i.scdn.co/image/ab6761610000e5eb2c17882893491af059fb867e,73
+7jVv8c5Fj3E9VhNjxT4snq,Lil Nas X,6,https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq,['lgbtq+ hip hop'],https://i.scdn.co/image/ab6761610000e5eb0c3c7f83cf57525762802a1d,76
+7b6Ui7JVaBDEfZB9k6nHL0,The Local Train,6,https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0,"['hindi indie', 'indian indie', 'indian rock', 'new delhi indie']",https://i.scdn.co/image/ab6761610000e5eb7aa6748dcf92d2eff597f154,60
+5ZsFI1h6hIdQRw2ti0hz81,ZAYN,5,https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81,"['pop', 'uk pop']",https://i.scdn.co/image/ab6761610000e5eb056f821a5186892979410deb,75
+5JMLG56F1X5mFmWNmS0iAp,Chelsea Cutler,5,https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp,['alt z'],https://i.scdn.co/image/ab6761610000e5eb15f3edcade37af91b35e9096,66
+6KImCVD70vtIoJWnq6nGn3,Harry Styles,5,https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3,['pop'],https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb,84
+66CXWjxzNUsdJxJ2JdwvnR,Ariana Grande,5,https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR,['pop'],https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7,89
+16oZKvXb6WkQlVAjwo2Wbg,The Lumineers,5,https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg,"['folk-pop', 'modern rock', 'stomp and holler']",https://i.scdn.co/image/ab6761610000e5ebc79f78fd72a3e5faf699a8be,77
+4AQrqVz6BYwy29iMxcGtx7,Roosevelt,5,https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7,"['indie emo', 'nu disco', 'shiver pop']",https://i.scdn.co/image/ab6761610000e5eb05858f274692344c6f5ee13a,56
+19LIHDDSHBD5NyYHI3gpzB,Shilpa Rao,5,https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5ebada368118a052fb40d3f1a68,75
+4IWBUUAFIplrNtaOHcJPRM,James Arthur,5,https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM,"['pop', 'talent show', 'uk pop']",https://i.scdn.co/image/ab6761610000e5eb2a0c6d0343c82be9dd6fce0b,81
+3QSQFmccmX81fWCUSPTS7y,Dean Lewis,5,https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y,"['australian pop', 'pop']",https://i.scdn.co/image/ab6761610000e5eb891372380d287ac28e80d72a,75
+2WzaAvm2bBCf4pEhyuDgCY,Ruth B.,5,https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY,"['alt z', 'canadian contemporary r&b', 'canadian pop', 'pop']",https://i.scdn.co/image/ab6761610000e5eb1da7ba1c178ab9f68d065197,72
+0L5GV6LN8SWWUWIdBbTLTZ,Shankar-Ehsaan-Loy,5,https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb3db0499a689aa9b4a47ebba3,69
+7qjJw7ZM2ekDSahLXPjIlN,Sid Sriram,5,https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN,['filmi'],https://i.scdn.co/image/ab6761610000e5ebef6a8800763bf428e85940a6,75
+5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,5,https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5,"['dance pop', 'pop']",https://i.scdn.co/image/ab6761610000e5eb7f6d6cac38d494e87692af99,87
+3zmfs9cQwzJl575W1ZYXeT,Men I Trust,5,https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT,"['indie pop', 'pov: indie']",https://i.scdn.co/image/ab6761610000e5ebfd30ebd7e80dad6b2383aab0,71
+2tIP7SsRs7vjIcLrU85W8J,The Kid LAROI,5,https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J,['australian hip hop'],https://i.scdn.co/image/ab6761610000e5eb393666951ab8b14e9c4ed386,79
+7yZDrVInKssNCaZkAkQGTX,Lothika,5,https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX,"['desi pop', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb37db43b7d0bcd10e2b090521,55
+0hCNtLu0JehylgoiP8L4Gh,Nicki Minaj,5,https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh,"['hip pop', 'pop', 'queens hip hop', 'rap']",https://i.scdn.co/image/ab6761610000e5eb07a50f0a9a8f11e5a1102cbd,87
+5K4W6rqBFWDnAN6FQUkS6x,Kanye West,5,https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x,"['chicago rap', 'hip hop', 'rap']",https://i.scdn.co/image/ab6761610000e5eb6e835a500e791bf9c27a422a,95
+1h6Cn3P4NGzXbaXidqURXs,Swedish House Mafia,5,https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs,"['edm', 'pop dance', 'progressive electro house']",https://i.scdn.co/image/ab6761610000e5eb3acc752dbb488a55fffa9af8,74
+2nPIXmAYsFJ4DwYydnATFI,Matt Walden,5,https://open.spotify.com/artist/2nPIXmAYsFJ4DwYydnATFI,['teen pop'],https://i.scdn.co/image/ab6761610000e5eb22e07f7fd450013228bb7db7,31
+2wY79sveU1sp5g7SokKOiI,Sam Smith,5,https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI,"['pop', 'uk pop']",https://i.scdn.co/image/ab6761610000e5eba8eef8322e55fc49ab436eea,83
+6jJ0s89eD6GaHleKKya26X,Katy Perry,5,https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X,['pop'],https://i.scdn.co/image/ab6761610000e5ebdc9dcb7e4a97b4552e1224d6,84
+6q29t5RuXxlBuqIZsOMQss,Priya Saraiya,5,https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss,"['gujarati pop', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb627ac4b3c03ff25fc67bf7dd,60
+4nDoRrQiYLoBzwC5BhVJzF,Camila Cabello,4,https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF,"['dance pop', 'pop']",https://i.scdn.co/image/ab6761610000e5ebec05963eab63676a539fef13,79
+246dkjvS1zLTtiykXe5h60,Post Malone,4,https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60,"['dfw rap', 'melodic rap', 'pop', 'rap']",https://i.scdn.co/image/ab6761610000e5eb6be070445b03e0b63147c2c1,87
+281Vp9LDrWkHMHQzfQHWCt,Rashid Ali,4,https://open.spotify.com/artist/281Vp9LDrWkHMHQzfQHWCt,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb60c9482ef58ab720ec8c1456,56
+45dkTj5sMRSjrmBSBeiHym,Tate McRae,4,https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym,"['alt z', 'pop']",https://i.scdn.co/image/ab6761610000e5eb846308bf9bf7d3183958b3a6,86
+26VFTg2z8YR0cCuwLzESi2,Halsey,4,https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2,"['electropop', 'etherpop', 'indie poptimism', 'pop']",https://i.scdn.co/image/ab6761610000e5ebd707e1c5177614c4ec95a06c,80
+163tK9Wjr9P9DmM0AVK7lm,Lorde,4,https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm,"['art pop', 'metropopolis', 'nz pop', 'pop']",https://i.scdn.co/image/ab6761610000e5ebc4902f080d3620b3e6da80c3,75
+5IH6FPUwQTxPSXurCrcIov,Alec Benjamin,4,https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov,"['alt z', 'pop', 'pov: indie']",https://i.scdn.co/image/ab6761610000e5ebbfe1e006291c44c97ba1757b,75
+7H55rcKCfwqkyDFH9wpKM6,Christina Perri,4,https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6,['pop'],https://i.scdn.co/image/ab6761610000e5eb9bbbc124c9f0f75af892d97d,71
+4GNC7GD6oZMSxPGyXy4MNB,Lewis Capaldi,4,https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB,"['pop', 'uk pop']",https://i.scdn.co/image/ab6761610000e5ebea7538654040e553a7b0fc28,81
+52XgeWw24o4klNdfwvB0Vx,Kunaal Vermaa,4,https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx,"['desi pop', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb187491994c7bb4d30d7c8e6e,70
+7CajNmpbOovFoOoasH2HaY,Calvin Harris,4,https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY,"['dance pop', 'edm', 'electro house', 'house', 'pop', 'pop dance', 'progressive house', 'uk dance']",https://i.scdn.co/image/ab6761610000e5eb37bff6aa1d42bede9048750f,85
+4Uc8Dsxct0oMqx0P6i60ea,Conan Gray,4,https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea,"['bedroom pop', 'pop', 'pov: indie']",https://i.scdn.co/image/ab6761610000e5ebc1c8fa15e08cb31eeb03b771,79
+4Z8W4fKeB5YxbusRsdQVPb,Radiohead,4,https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb,"['alternative rock', 'art rock', 'melancholia', 'oxford indie', 'permanent wave', 'rock']",https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd,81
+1Cs0zKBU1kc0i8ypK3B9ai,David Guetta,4,https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai,"['big room', 'dance pop', 'edm', 'pop', 'pop dance']",https://i.scdn.co/image/ab6761610000e5ebf150017ca69c8793503c2d4f,87
+1McMsnEElThX1knmY4oliG,Olivia Rodrigo,4,https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG,['pop'],https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4,88
+2GoeZ0qOTt6kjsWW4eA6LS,Darshan Raval,4,https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS,"['desi pop', 'filmi', 'gujarati pop', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5ebe1e00861cdb6bf56b14a1118,76
+1lJhME1ZpzsEa5M0wW6Mso,Charlotte de Witte,4,https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso,"['belgian techno', 'electra']",https://i.scdn.co/image/ab6761610000e5eba71a10a8d7dc70542fa7d089,60
+5cB4d4jPYjMT326sjihQ4m,Shaan,4,https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb2573d940f1062a6646891e50,68
+0X2BH1fck6amBIoJhDVmmJ,Ellie Goulding,4,https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ,"['indietronica', 'metropopolis', 'pop', 'uk pop']",https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a,78
+1URnnhqYAYcrqrcwql10ft,21 Savage,4,https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft,"['atl hip hop', 'hip hop', 'rap']",https://i.scdn.co/image/ab6761610000e5eba5e754a9c1fc7ad7ee01798b,92
+2cFrymmkijnjDg9SS92EPM,blackbear,4,https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM,['pop'],https://i.scdn.co/image/ab6761610000e5eb4f7d049994ac00ed885bfbf2,74
+35l9BRT7MXmM8bv2WDQiyB,beabadoobee,4,https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB,"['bedroom pop', 'bubblegrunge', 'indie pop', 'pov: indie']",https://i.scdn.co/image/ab6761610000e5eb9d6d0ba276987f19641c27de,76
+6kXm2YCtdUOpRYNKeKhfue,Ryan Gosling,4,https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue,['hollywood'],https://i.scdn.co/image/631a9ec7f910836e4fbdd97f652e2fb032674c08,61
+6hzngLO20cX5IGqT0hVv1G,Anurag Saikia,4,https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G,"['desi pop', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb90a9f16b862b8d8efc4ab7aa,58
+07YZf4WDAMNwqr4jfgOZ8y,Jason Derulo,4,https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y,"['dance pop', 'pop']",https://i.scdn.co/image/ab6761610000e5eb62fa38af4bdc7322b2103493,80
+7qG3b048QCHVRO5Pv1T5lw,Enrique Iglesias,4,https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw,"['dance pop', 'latin pop', 'mexican pop']",https://i.scdn.co/image/ab6761610000e5eb952701937c396cfa9b598a37,77
+3TR3Ehl4idJ38cJo2K3PlF,Mismatched,4,https://open.spotify.com/artist/3TR3Ehl4idJ38cJo2K3PlF,[],https://i.scdn.co/image/ab6761610000e5eb83319c20e3d7bb6e8cedf90f,0
+2fMqTqiTxUDlmcOEPaQSsx,Amitabh Bhattacharya,4,https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx,['modern bollywood'],https://i.scdn.co/image/ab6761610000e5eb9ead3cc9a2db015a9871ecdd,78
+6p4FpOvJaSSljYGlkKsS40,Mikey McCleary,4,https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40,[],https://i.scdn.co/image/ab6761610000e5ebbb560dcc50dc63c338bed55d,37
+0pH95ANpXdAB7O0TzW6UX9,Raajmusic,4,https://open.spotify.com/artist/0pH95ANpXdAB7O0TzW6UX9,[],https://i.scdn.co/image/ab6761610000e5eb3bb9e027f9ebff2438ca2da0,20
+3dN9MQpjIyNxyeRfz4EDZe,Rochak Kohli,4,https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe,"['desi pop', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5ebe09b58bac3afccac3e6e546b,69
+7oPftvlwr6VrsViSDV7fJY,Green Day,4,https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY,"['modern rock', 'permanent wave', 'punk', 'rock']",https://i.scdn.co/image/ab6761610000e5eb6ff0cd5ef2ecf733804984bb,80
+3CVXA5TAWpmfGPqyMqXpPb,Savera,4,https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb,['desi pop'],https://i.scdn.co/image/ab6761610000e5eb80ab8b05c210da4eed1c555c,53
+7IiSLreTg1of8dDwxwiPw3,Chef'Special,3,https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3,"['dutch indie', 'dutch pop', 'dutch rock', 'folk-pop', 'nederreggae']",https://i.scdn.co/image/ab6761610000e5eb94341af34332127a1284d2c4,55
+2j9QVMZlqIj4Cb9UISBrXK,Clinton Cerejo,3,https://open.spotify.com/artist/2j9QVMZlqIj4Cb9UISBrXK,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb52e572ad3314e6b7653b3cd9,59
+2jHp7gQArCQrlMvdrIVFCg,Anson Seabra,3,https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg,"['alt z', 'gen z singer-songwriter']",https://i.scdn.co/image/ab6761610000e5eb110a76fa4b833ce1cd25c669,63
+0fA0VVWsXO9YnASrzqfmYu,Kid Cudi,3,https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu,"['hip hop', 'ohio hip hop', 'pop rap', 'rap']",https://i.scdn.co/image/ab6761610000e5eb876faa285687786c3d314ae0,81
+3klZnJvYGIbWritVwQD434,Duncan Laurence,3,https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434,['dutch pop'],https://i.scdn.co/image/ab6761610000e5eb7834b4852d11bd5202e628fd,65
+2auikkNYqigWStoHWK1Grq,John Martin,3,https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq,['pop edm'],https://i.scdn.co/image/ab6761610000e5ebc219fd875a1df4abf7eb157d,66
+4phGZZrJZRo4ElhRtViYdl,Jason Mraz,3,https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl,"['acoustic pop', 'dance pop', 'neo mellow', 'pop']",https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14,72
+7z1VrrLktQYoS9C0cFbfnI,Tatiana Manaois,3,https://open.spotify.com/artist/7z1VrrLktQYoS9C0cFbfnI,[],https://i.scdn.co/image/ab6761610000e5ebd780318487f3fad6bec36086,48
+4xd7mLI7urqrxELaXhAvzw,Shekhar Ravjiani,3,https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb5cc3c8853dfa9eda5008c2f6,70
+1dfeR4HaWDbWqFHLkxsg1d,Queen,3,https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d,"['classic rock', 'glam rock', 'rock']",https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982,84
+7IAFAOtc9kTYNTizhLSWM6,Hollow Coves,3,https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6,"['indie anthem-folk', 'indie folk', 'modern indie folk']",https://i.scdn.co/image/ab6761610000e5eb81c0e43195b10b16081a5fc4,66
+2wUjUUtkb5lvLKcGKsKqsR,Alessia Cara,3,https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR,"['canadian contemporary r&b', 'canadian pop', 'pop']",https://i.scdn.co/image/ab6761610000e5ebe74b7398634a741f74858dc7,72
+2oX42qP5ineK3hrhBECLmj,Andy Grammer,3,https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj,"['neo mellow', 'post-teen pop', 'viral pop']",https://i.scdn.co/image/ab6761610000e5ebd75deff8ee11349e969ba5d6,66
+2p4FqHnazRucYQHyDCdBrJ,Simple Plan,3,https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ,"['canadian pop punk', 'canadian punk', 'canadian rock', 'modern rock', 'neon pop punk', 'pop punk', 'pop rock']",https://i.scdn.co/image/ab6761610000e5eb9e889e992f5dc0e7bb632713,68
+4o0mCeiUIVdknPUMhpO0bd,Dream Note,3,https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd,"['desi pop', 'hindi indie', 'indian indie']",https://i.scdn.co/image/ab6761610000e5eb6a22f55c82204edf02dfe58b,51
+3PjvC3vaZ6wh5FK6PZ4Dd5,B. Ajaneesh Loknath,3,https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5,['sandalwood'],https://i.scdn.co/image/ab67616d0000b2734a5c5f9cd7ead4d884eae9ae,55
+1nmKYy6efdYl8sIcT0gCLJ,Anumita Nadesan,3,https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ,"['desi pop', 'indian indie', 'indian singer-songwriter']",https://i.scdn.co/image/ab6761610000e5ebb25553a92291700b714dbd11,46
+4lDBihdpMlOalxy1jkUbPl,Grey,3,https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl,['pop edm'],https://i.scdn.co/image/ab6761610000e5eb6f0ae12d361fa6a480cbf5a0,64
+7okSU80WTrn4LXlyXYbX3P,Clinton Kane,3,https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P,"['alt z', 'gen z singer-songwriter']",https://i.scdn.co/image/ab6761610000e5eba76c14df8c00d1d0a578d97b,63
+09UmIX92EUH9hAK4bxvHx6,Mithoon,3,https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb9bd641ceb72d35b63fbb314a,69
+44DUgsrbRUlhwfLyj4ySUB,Edwin Raphael,3,https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB,"['indie anthem-folk', 'modern indie folk', 'montreal indie']",https://i.scdn.co/image/ab6761610000e5eb13ecd45a7f1738bb5cc8db13,52
+2LIk90788K0zvyj2JJVwkJ,Jack Harlow,3,https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ,"['deep underground hip hop', 'kentucky hip hop', 'pop rap', 'rap']",https://i.scdn.co/image/ab6761610000e5eb2aab40ce03f3fa86163f78bb,83
+3aQeKQSyrW4qWr35idm0cy,T-Pain,3,https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy,"['dance pop', 'gangster rap', 'hip hop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap', 'urban contemporary']",https://i.scdn.co/image/ab6761610000e5eb35a621f656a1b1d3cb44a1b4,77
+2NhdGz9EDv2FeUw6udu2g1,The Wanted,3,https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1,"['boy band', 'dance pop', 'pop', 'post-teen pop']",https://i.scdn.co/image/ab6761610000e5ebd34d138ebcda9fca6716e70c,64
+25uiPmTg16RbhZWAqwLBy5,Charli XCX,3,https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5,"['art pop', 'candy pop', 'metropopolis', 'pop', 'uk pop']",https://i.scdn.co/image/ab6761610000e5eb936885667ef44c306483c838,75
+3YQKmKGau1PzlVlkL1iodx,Twenty One Pilots,3,https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx,"['modern rock', 'pop', 'pov: indie', 'rock']",https://i.scdn.co/image/ab6761610000e5eb274df4dfcb960867eccedfb5,80
+7qATomOqJzoJiuEpAaxOXd,Sandeep Shrivastava,3,https://open.spotify.com/artist/7qATomOqJzoJiuEpAaxOXd,['modern bollywood'],https://i.scdn.co/image/ab67616d0000b2730b037084de6d2b19cb09a70a,54
+3V0ZQW0dNuVaFtbVYgSI24,Claire Rosinkranz,3,https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24,"['alt z', 'modern indie pop']",https://i.scdn.co/image/ab6761610000e5eb26470743017f8a5435e7fda3,58
+21egYD1eInY6bGFcniCRT1,First Aid Kit,3,https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1,"['swedish americana', 'swedish country']",https://i.scdn.co/image/ab6761610000e5ebb5e11e2072a4870eb703f4dd,61
+07QEuhtrNmmZ0zEcqE9SF6,Owl City,3,https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6,"['indietronica', 'pop']",https://i.scdn.co/image/ab6761610000e5eb89100f32987cbdb4fe8242cc,67
+7jdFEYD2LTYjfwxOdlVjmc,KALEO,3,https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc,"['icelandic indie', 'icelandic rock', 'modern alternative rock']",https://i.scdn.co/image/ab6761610000e5ebc2bc8368a241196dd45d6f62,69
+2WROyFfIOmKtRopsTrIL52,Landon Austin,3,https://open.spotify.com/artist/2WROyFfIOmKtRopsTrIL52,"['channel pop', 'viral pop']",https://i.scdn.co/image/ab6761610000e5ebc539b452d54a5aae8ade1aff,48
+0EmeFodog0BfCgMzAIvKQp,Shakira,3,https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp,"['colombian pop', 'dance pop', 'latin pop', 'pop']",https://i.scdn.co/image/ab6761610000e5ebaee73c0f0458b95091845ee1,85
+1vCWHaC5f2uS3yhpwWbIA6,Avicii,3,https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6,"['dance pop', 'edm', 'pop', 'pop dance']",https://i.scdn.co/image/ab6761610000e5ebae07171f989fb39736674113,80
+7gAppWoH7pcYmphCVTXkzs,The Vamps,3,https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs,"['boy band', 'pop']",https://i.scdn.co/image/ab6761610000e5eb77ef80571a40d9d19cf52208,65
+2Yf4MRVpt0rcAd5y5h5ph1,Caralisa Monteiro,3,https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1,['modern bollywood'],https://i.scdn.co/image/ab6761610000e5ebf43a8d87d4810aa05739b2ef,63
+7c0XG5cIJTrrAgEC3ULPiq,Ty Dolla $ign,3,https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq,"['hip hop', 'pop rap', 'r&b', 'southern hip hop', 'trap', 'trap soul']",https://i.scdn.co/image/ab6761610000e5eb24b3c0f33bc5e3f6a53f84d7,89
+6sFIWsNpZYqfjUpaCgueju,Carly Rae Jepsen,3,https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju,"['canadian pop', 'dance pop', 'pop']",https://i.scdn.co/image/ab6761610000e5eb8272bf414106646e0e4a89f3,71
+4m4SfDVbF5wxrwEjDKgi4k,Cher Lloyd,3,https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k,"['dance pop', 'pop', 'post-teen pop', 'talent show']",https://i.scdn.co/image/ab6761610000e5ebb5231a91bb97ad31e3607f30,59
+5yG7ZAZafVaAlMTeBybKAL,Iggy Azalea,3,https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL,"['australian hip hop', 'dance pop', 'pop']",https://i.scdn.co/image/ab6761610000e5eb698a6abf2897a8fc8283cc0c,68
+6GMYJwaziB4ekv1Y6wCDWS,Soulja Boy,3,https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS,"['atl hip hop', 'chicago bop', 'dance pop', 'pop rap', 'rap', 'southern hip hop', 'trap']",https://i.scdn.co/image/ab6761610000e5eb40fbebe8dee2989b9f4efe9d,68
+6MDME20pz9RveH9rEXvrOM,Clean Bandit,3,https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM,"['pop', 'uk dance', 'uk funky']",https://i.scdn.co/image/ab6761610000e5ebdaed24d10b1ac9addfb8a9f1,73
+6MTByljF8u5omBltY2VKPU,Anoushka Shankar,3,https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU,"['hindustani classical', 'indian classical', 'indian fusion', 'sitar', 'world fusion']",https://i.scdn.co/image/ab6761610000e5eb099fc2304d511be43b485e50,48
+19gmxCK2V3jLMi5fDYyKtS,Willamette Stone,3,https://open.spotify.com/artist/19gmxCK2V3jLMi5fDYyKtS,[],,44
+6eMFGgGDh5iXU1POAK0cpe,Suraj Jagan,3,https://open.spotify.com/artist/6eMFGgGDh5iXU1POAK0cpe,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb971cfa09a427c46f316ee556,49
+5UJ2sHO2ELrgW6aXeRLTQQ,Chinmayi,3,https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ,"['filmi', 'marathi pop']",https://i.scdn.co/image/ab6761610000e5eb8b1862a929651ee5ff4ce67c,72
+5pjGNJ7b8l4GFrsdCr8GpJ,Pankaj Awasthi,3,https://open.spotify.com/artist/5pjGNJ7b8l4GFrsdCr8GpJ,[],https://i.scdn.co/image/ab6761610000e5eb979115e0e0cc7f01c00ab96f,49
+5lMNphVhMLvhFmTWiKiLA2,Zaeden,3,https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2,"['desi pop', 'hindi indie', 'indian edm']",https://i.scdn.co/image/ab6761610000e5eb4332e6d8cbb9c090a028a127,56
+6j9elOE3U0Fklu0ATR9nQ0,Crooked Fingers,3,https://open.spotify.com/artist/6j9elOE3U0Fklu0ATR9nQ0,['indie rock'],https://i.scdn.co/image/ab6761610000e5eb49e8f002deb15b2fcbbc964f,22
+10exVja0key0uqUkk6LJRT,Vance Joy,3,https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT,"['folk-pop', 'modern rock']",https://i.scdn.co/image/ab6761610000e5eb8f074ec8c25406680bf26422,76
+1OPqAyxsQc8mcRmoNBAnVk,Dhvani Bhanushali,3,https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk,"['desi pop', 'filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb474e22bd75615c1a0b3a8530,66
+72578usTM6Cj5qWsi471Nc,Raghu Dixit,3,https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc,"['indian folk', 'indian rock', 'kannada pop']",https://i.scdn.co/image/ab6761610000e5eb6bd5c5064753f09db6d93ac8,54
+77SW9BnxLY8rJ0RciFqkHh,The Neighbourhood,3,https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh,"['modern alternative rock', 'modern rock', 'pop']",https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816,83
+0TnOYISbd1XYRBk9myaseg,Pitbull,3,https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg,"['dance pop', 'miami hip hop', 'pop']",https://i.scdn.co/image/ab6761610000e5ebee07b5820dd91d15d397e29c,83
+5rSXSAkZ67PYJSvpUpkOr7,Backstreet Boys,3,https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7,"['boy band', 'dance pop', 'pop']",https://i.scdn.co/image/ab6761610000e5ebb0d44bc6f830e443d7501a8c,74
+0hDjKSKjl1DC7ovYTDJHe8,Bruno Major,3,https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8,['singer-songwriter pop'],https://i.scdn.co/image/ab6761610000e5eb5b43a1fdff498297feb1d128,65
+6ltzsmQQbmdoHHbLZ4ZN25,Lord Huron,3,https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25,"['indie folk', 'stomp and holler']",https://i.scdn.co/image/ab6761610000e5eb1d4e4e7e3c5d8fa494fc5f10,75
+76fuWYgIf3TVIopTs3vaJ6,Amaal Mallik,3,https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6,"['desi pop', 'filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5ebc1559c29cb61d249075a8b86,68
+7DMveApC7UnC2NPfPvlHSU,Cheat Codes,3,https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU,"['edm', 'pop', 'pop dance']",https://i.scdn.co/image/ab6761610000e5ebd504e2958caeb5f53f591ebf,66
+73sIBHcqh3Z3NyqHKZ7FOL,Childish Gambino,3,https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL,"['atl hip hop', 'hip hop', 'rap']",https://i.scdn.co/image/ab6761610000e5eb3ef779aa0d271adb2b6a3ded,79
+0c173mlxpT3dSFRgMO8XPh,Big Sean,3,https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh,"['detroit hip hop', 'hip hop', 'pop rap', 'r&b', 'rap', 'southern hip hop', 'trap']",https://i.scdn.co/image/ab6761610000e5eb89dccc0a0b3d818c8d5fb711,75
+6VuMaDnrHyPL1p4EHjYLi7,Charlie Puth,3,https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7,"['pop', 'viral pop']",https://i.scdn.co/image/ab6761610000e5ebf83823555da55fd07555fbd0,80
+6dJeKm76NjfXBNTpHmOhfO,Selena Gomez & The Scene,3,https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO,['pop'],https://i.scdn.co/image/469b6a74f5ddca9560e9f5137842e3772c8576c0,68
+6pWcSL9wSJZQ9ne0TnhdWr,K-391,3,https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr,['nordic house'],https://i.scdn.co/image/ab6761610000e5ebee8a07cb51e34afee6786f3b,64
+0qzzGu8qpbXYpzgV52wOFT,Bibio,3,https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT,"['ambient folk', 'chillwave', 'downtempo', 'electronica', 'folktronica', 'indietronica']",https://i.scdn.co/image/ab6761610000e5ebc6f8c3e1e5db20e02a26bcf2,50
+6AyATGg7mDgBlZ4N5uNog0,SYML,3,https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0,"['indie anthem-folk', 'modern indie pop']",https://i.scdn.co/image/ab6761610000e5ebb4202395fec347a4b21cec09,71
+3Yq0Ww7oAbgxcoOxthlS30,Miki Ratsula,2,https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30,[],https://i.scdn.co/image/ab6761610000e5eb5ff536aae54879cd0154b5d9,40
+73jBynjsVtofjRpdpRAJGk,Dimitri Vegas & Like Mike,2,https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk,"['belgian dance', 'belgian edm', 'big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",https://i.scdn.co/image/ab6761610000e5eb6d9ec2a5d92b61a469068849,72
+6bmlMHgSheBauioMgKv2tn,Powfu,2,https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn,"['sad lo-fi', 'sad rap']",https://i.scdn.co/image/ab6761610000e5eb9c58bc0900410699cdfe2489,68
+3Y7RZ31TRPVadSFVy1o8os,H.E.R.,2,https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os,"['r&b', 'rap']",https://i.scdn.co/image/ab6761610000e5eb417db49cde3ed1c5a65e3514,75
+74KM79TiuVKeVCqs8QtB0B,Sabrina Carpenter,2,https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B,['pop'],https://i.scdn.co/image/ab6761610000e5eb00e540b760b56d02cc415c47,80
+7Dx7RhX0mFuXhCOUgB01uM,JJ Lin,2,https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM,"['mandopop', 'singaporean mandopop', 'singaporean pop']",https://i.scdn.co/image/ab6761610000e5eb181b3f24c2a457e7fa3edb59,65
+3crnzLy8R4lVwaigKEOz7V,E-40,2,https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V,"['cali rap', 'hyphy', 'oakland hip hop', 'west coast rap']",https://i.scdn.co/image/ab6761610000e5eb8ca18cf65fbe696a56d9cfda,66
+3ZxZ03fj3tXBZHZWzvaLSM,Neeti Mohan,2,https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb357df5037e26bf16917825fc,70
+3gVs02kUSkMOkErgzttj7T,Fudasca,2,https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T,"['sad lo-fi', 'sad rap']",https://i.scdn.co/image/ab6761610000e5eb8a257717a899c3715e4e9358,40
+3nQ125TJobosBH446Dsvvv,Kavita Seth,2,https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv,"['filmi', 'hindi indie', 'modern bollywood', 'sufi']",https://i.scdn.co/image/ab6761610000e5ebbe2182ee50e1ddccbd7c2c92,63
+3mIj9lX2MWuHmhNCA7LSCW,The 1975,2,https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW,"['modern alternative rock', 'modern rock', 'pop', 'pov: indie', 'rock']",https://i.scdn.co/image/ab6761610000e5eb89348336354096fd4e36ca73,76
+3iri9nBFs9e4wN7PLIetAw,gnash,2,https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw,['pop'],https://i.scdn.co/image/ab6761610000e5eb78e3e309ea0bf5dfb2192469,62
+3i8iJVU0mtgzbZsuF1AoJ3,sad alex,2,https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3,['modern indie pop'],https://i.scdn.co/image/ab6761610000e5eb133b08d53164bc6c7986d6d9,43
+3hv9jJF3adDNsBSIQDqcjp,Mark Ronson,2,https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp,['pop soul'],https://i.scdn.co/image/ab6761610000e5eb105cc9628c315b29d299fbb4,73
+3ha7jHHT5kpNo2EemspvHx,Don Carnevale,2,https://open.spotify.com/artist/3ha7jHHT5kpNo2EemspvHx,[],https://i.scdn.co/image/ab67616d0000b273df2d18c638adf0f873ed8304,14
+6CXEwIaXYfVJ84biCxqc9k,Vishal Dadlani,2,https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb76328e37a2c1280ab9adb90c,74
+6LyiUcIr0wG0mC8E01kyI6,Neuman Pinto,2,https://open.spotify.com/artist/6LyiUcIr0wG0mC8E01kyI6,['modern bollywood'],https://i.scdn.co/image/ab6761610000e5ebb558e4b1a31afc445a218922,48
+3fACmIrcE5VThQfuYpOJzc,Jemima Coulter,2,https://open.spotify.com/artist/3fACmIrcE5VThQfuYpOJzc,['modern indie folk'],https://i.scdn.co/image/ab6761610000e5ebf98b3db4c97a601ec35a2b27,41
+6Gt5kTPVe7tuYK44gRPVdJ,sød ven,2,https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ,"['korean bl ost', 'modern indie folk']",https://i.scdn.co/image/ab6761610000e5ebf794e4366db1849bfcd454dd,40
+6LqNN22kT3074XbTVUrhzX,Kesha,2,https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX,"['dance pop', 'pop']",https://i.scdn.co/image/ab6761610000e5eb8e32655d5ee8021c812b0f74,77
+7pbDxGE6nQSZVfiFdq9lOL,Rex Orange County,2,https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL,['bedroom pop'],https://i.scdn.co/image/ab6761610000e5ebffb90f91cb2f487d7309f7bc,73
+3bKSSHfw4sQ9YCjJe1V1c5,Adam French,2,https://open.spotify.com/artist/3bKSSHfw4sQ9YCjJe1V1c5,['indie anthem-folk'],https://i.scdn.co/image/ab6761610000e5ebf23d59b4adbe95fbdce15b90,33
+75VKfyoBlkmrJFDqo1o2VY,Fireboy DML,2,https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY,"['afrobeats', 'nigerian pop']",https://i.scdn.co/image/ab6761610000e5eb883c0730c0ea767039cec6db,69
+3QLIkT4rD2FMusaqmkepbq,Rachel Platten,2,https://open.spotify.com/artist/3QLIkT4rD2FMusaqmkepbq,"['post-teen pop', 'talent show', 'viral pop']",https://i.scdn.co/image/ab6761610000e5ebc1e5198aa1530bf6eef2b495,61
+3PUWvoriT2SsLIO4YcTjyy,Hailaker,2,https://open.spotify.com/artist/3PUWvoriT2SsLIO4YcTjyy,"['indie folk', 'modern indie folk']",https://i.scdn.co/image/ab6761610000e5ebbf1853e38a8f7d459a73c344,41
+3QJUFtGBGL05vo0kCJZsmT,salem ilese,2,https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT,"['alt z', 'modern indie pop']",https://i.scdn.co/image/ab6761610000e5eb3da79849ed72fe525fb8ac00,61
+3DiDSECUqqY1AuBP8qtaIa,Alicia Keys,2,https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa,"['neo soul', 'pop', 'r&b']",https://i.scdn.co/image/ab6761610000e5ebebfd16a3bca87c31c1e20576,78
+6jf2eKjiPT6P18RbOSLzf0,Arko,2,https://open.spotify.com/artist/6jf2eKjiPT6P18RbOSLzf0,"['desi pop', 'filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb37b6000b2144130f3a19df41,60
+3BmGtnKgCSGYIUhmivXKWX,Kelly Clarkson,2,https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX,"['dance pop', 'pop', 'talent show']",https://i.scdn.co/image/ab6761610000e5eb305a7cc6760b53a67aaae19d,73
+7t0rwkOPGlDPEhaOcVtOt9,The Cranberries,2,https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9,"['irish rock', 'pop rock', 'rock']",https://i.scdn.co/image/143c01f407ed64a4b3bcbc92d24c05ef80981251,75
+6kBjAFKyd0he7LiA5GQ3Gz,Aqua,2,https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz,"['bubblegum dance', 'eurodance', 'europop']",https://i.scdn.co/image/ab6761610000e5eb54cd560d17307a51f3dc278a,68
+6lB8vOoI4DRrrVxXwuV19c,Mike Perry,2,https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c,"['pop dance', 'swedish tropical house']",https://i.scdn.co/image/ab6761610000e5eb4ca7ccebc2f9e6c281cd6ff3,61
+37M5pPGs6V1fchFJSgCguX,FINNEAS,2,https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX,"['alt z', 'la indie', 'pop', 'pov: indie']",https://i.scdn.co/image/ab6761610000e5eb0c56e1a2c14efda30c57b98e,67
+32ogthv0BdaSMPml02X9YB,The Cinematic Orchestra,2,https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB,"['downtempo', 'nu jazz']",https://i.scdn.co/image/ab6761610000e5eb9e2576943e27fcddc3bb3646,64
+2yLzlEFtIS0Q9UkyBZdQA7,Jessie Murph,2,https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7,"['modern country pop', 'singer-songwriter pop']",https://i.scdn.co/image/ab6761610000e5eb7700f9e2fad4e7b78f762a64,72
+2xiIXseIJcq3nG7C8fHeBj,Three Days Grace,2,https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj,"['alternative metal', 'canadian metal', 'canadian rock', 'nu metal', 'post-grunge', 'rock']",https://i.scdn.co/image/ab6761610000e5eb3626be769b238e2a35010613,74
+71o2qG4Qam85pPaPlw4zhN,Late Night Thoughts,2,https://open.spotify.com/artist/71o2qG4Qam85pPaPlw4zhN,[],https://i.scdn.co/image/ab6761610000e5ebf90683fb442a6a506290ffeb,22
+6oYBjThgR8wh14Pj6ar4Dd,JTN,2,https://open.spotify.com/artist/6oYBjThgR8wh14Pj6ar4Dd,[],https://i.scdn.co/image/ab6761610000e5eb78d91e1fdb1e8e48b51b68d0,0
+6qGkLCMQkNGOJ079iEcC5k,Ben Platt,2,https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k,"['broadway', 'show tunes']",https://i.scdn.co/image/ab6761610000e5eb7316f8a5d9f35c14ea08d256,61
+2vfDwM6xqZbOjg5h6VLoke,Charm of Finches,2,https://open.spotify.com/artist/2vfDwM6xqZbOjg5h6VLoke,"['chamber folk', 'chamber pop']",https://i.scdn.co/image/ab6761610000e5eb02d9d711a3cca24ece13b3c3,25
+2vT6u1co9tQidx18xISF2k,Toymob,2,https://open.spotify.com/artist/2vT6u1co9tQidx18xISF2k,[],https://i.scdn.co/image/ab6761610000e5eb3527dc5888c41be15dec5f27,7
+6zFYqv1mOsgBRQbae3JJ9e,Billy Joel,2,https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e,"['album rock', 'classic rock', 'heartland rock', 'mellow gold', 'piano rock', 'rock', 'singer-songwriter', 'soft rock']",https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8,77
+6fcTRFpz0yH79qSKfof7lp,Seven Lions,2,https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp,"['brostep', 'complextro', 'dubstep', 'edm', 'electro house', 'melodic dubstep', 'pop dance', 'progressive trance']",https://i.scdn.co/image/ab6761610000e5eb0e2455fef5a36516cb23269d,58
+3FUY2gzHeIiaesXtOAdB7A,Train,2,https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A,"['dance pop', 'neo mellow', 'pop', 'pop rock']",https://i.scdn.co/image/ab6761610000e5ebeb96a88993a929eaadbe4864,72
+6cSxzHrQgGc4I4Ck5Gewej,Sons Of The East,2,https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej,"['australian indie folk', 'folk-pop']",https://i.scdn.co/image/ab6761610000e5eb67bbaaccd0d7a1e064dc55bd,57
+3GBSge8pq7mpezUQl0GAOA,Kausar Munir,2,https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA,['modern bollywood'],https://i.scdn.co/image/ab67616d0000b273bdbfa224f9c1f5c657c4250e,64
+6deCiWT7ATcDWP2Cvlalvn,Oscar Lang,2,https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn,['bedroom pop'],https://i.scdn.co/image/ab6761610000e5eba4509eb0a261cb52f6c01442,57
+6eBYLQONaYZhZNAVK061t6,Nina Sky,2,https://open.spotify.com/artist/6eBYLQONaYZhZNAVK061t6,['hip pop'],https://i.scdn.co/image/ab6761610000e5ebc4d1f6eb290474ff0510da83,57
+3PhoLpVuITZKcymswpck5b,Elton John,2,https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b,"['glam rock', 'mellow gold', 'piano rock', 'rock']",https://i.scdn.co/image/ab6761610000e5eb0a7388b95df960b5c0da8970,82
+3x1jBMHHrDUQbtRrvV78h2,Abhijay Sharma,2,https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2,['desi pop'],https://i.scdn.co/image/ab6761610000e5ebfa8028df9c67405a98b7fc02,54
+3OykSjAE6F2Mb51WplFoRk,WILLIS,2,https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk,['alabama indie'],https://i.scdn.co/image/ab6761610000e5eb6fc31d844be740f27b4d4b78,55
+3OLGltG8UPIea8sA4w0yg0,Rahat Fateh Ali Khan,2,https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0,"['classic pakistani pop', 'filmi', 'modern bollywood', 'qawwali', 'sufi']",https://i.scdn.co/image/ab6761610000e5ebac45eaf028dc58810df0f382,72
+7qHsapL39aTQsPhixtzVvy,Ayushmann Khurrana,2,https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy,"['desi pop', 'filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb3f089da8993c33907492007f,62
+3Nrfpe0tUJi4K4DXYWgMUX,BTS,2,https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX,"['k-pop', 'k-pop boy group', 'pop']",https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a,87
+3NRFinRTEqUCfaTTZmk8ek,Savage Garden,2,https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek,"['boy band', 'dance pop', 'pop rock']",https://i.scdn.co/image/ab6761610000e5eba218283491135c3c72911719,63
+721Thvnq29Or9LXUyfF75c,UNSECRET,2,https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c,"['bossbeat', 'rebel blues']",https://i.scdn.co/image/ab6761610000e5eb581d99de0efbc98b99fb4e04,49
+3LZZPxNDGDFVSIPqf4JuEf,Ice Spice,2,https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf,['bronx drill'],https://i.scdn.co/image/ab6761610000e5eb03578c92e15089c645b794f5,77
+3JhNCzhSMTxs9WLGJJxWOY,Macklemore,2,https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY,"['pop rap', 'seattle hip hop']",https://i.scdn.co/image/ab6761610000e5eb488b3b242f97163a7f8e17b9,76
+6fOMl44jA4Sp5b9PpYCkzz,NF,2,https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz,"['hip hop', 'pop rap']",https://i.scdn.co/image/ab6761610000e5eb1cf142a710a2f3d9b7a62da1,79
+3Isy6kedDrgPYoTS1dazA9,Sean Paul,2,https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9,"['dance pop', 'dancehall', 'pop', 'pop rap']",https://i.scdn.co/image/ab6761610000e5eb60c3e9abe7327c0097738f22,79
+3Hd8AXOtHjPH72Q3gE9UVn,Alexandra Albanese,2,https://open.spotify.com/artist/3Hd8AXOtHjPH72Q3gE9UVn,[],https://i.scdn.co/image/ab67616d0000b273faf830f6c3119b326b8076ac,24
+3qpyErDI4i90q5EGgSRmNK,Raghav Chaitanya,2,https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK,"['desi pop', 'indian indie', 'indian singer-songwriter', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5ebf16aafe18e9e1761a79eb406,66
+43ZHCT0cAZBISjO8DG9PnE,Elvis Presley,2,https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE,"['rock-and-roll', 'rockabilly']",https://i.scdn.co/image/ab6761610000e5eb9a93e273380982dff84c0d7c,77
+3xvaSlT4xsyk6lY1ESOspO,Disney,2,https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO,['movie tunes'],https://i.scdn.co/image/ab6761610000e5ebc698d53b77db34027b00f853,81
+5YGY8feqx7naU7z4HrwZM6,Miley Cyrus,2,https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6,['pop'],https://i.scdn.co/image/ab6761610000e5ebb4ba86c361191d48cbeb4b32,84
+4q3ewBCX7sLwd24euuV69X,Bad Bunny,2,https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X,"['reggaeton', 'trap latino', 'urbano latino']",https://i.scdn.co/image/ab6761610000e5eb9ad50e478a469448c6f369df,95
+4pwXiI7Z5ZStkgKowZyoKi,Like Mike,2,https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi,['belgian edm'],https://i.scdn.co/image/ab6761610000e5eb95014f9953d4999794078902,69
+79hrYiudVcFyyxyJW0ipTy,The Paper Kites,2,https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy,"['australian indie folk', 'indie anthem-folk', 'indie folk', 'stomp and flutter', 'stomp and holler']",https://i.scdn.co/image/ab6761610000e5eb9d4b54a5adb3f8d057d41c07,69
+4oVMLzAqW6qhRpZWt8fNw4,Kailash Kher,2,https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4,"['filmi', 'indian folk', 'modern bollywood', 'sufi']",https://i.scdn.co/image/ab6761610000e5ebc6d179e514b5cfe685f19a2e,65
+5UjCBnXQI2Kt5DvbLZFhqR,Nikhil Swaroop,2,https://open.spotify.com/artist/5UjCBnXQI2Kt5DvbLZFhqR,"['hindi indie', 'indian singer-songwriter']",https://i.scdn.co/image/ab6761610000e5eb467656a0f0042eb0e94746fc,12
+4npEfmQ6YuiwW1GpUmaq3F,Ava Max,2,https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F,['pop'],https://i.scdn.co/image/ab6761610000e5eb25806739a86070d817a9588d,79
+79Xp2rRN7wdsaTJgttdX3K,Cody Simpson,2,https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K,"['australian pop', 'pop', 'post-teen pop']",https://i.scdn.co/image/ab6761610000e5eb2c18e8ed6c04ee8ce8795796,53
+5cIc3SBFuBLVxJz58W2tU9,Oh Wonder,2,https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9,"['electropop', 'indie poptimism', 'pov: indie']",https://i.scdn.co/image/ab6761610000e5ebe3f0834baf029d28a2946a8d,65
+4f7KfxeHq9BiylGmyXepGt,Tanishk Bagchi,2,https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt,"['desi pop', 'filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb6fd9a57911c47be245fe4dcc,77
+78OKNrjc3BvniYTqvpOp6P,Zola Jesus,2,https://open.spotify.com/artist/78OKNrjc3BvniYTqvpOp6P,"['art pop', 'dark pop', 'grave wave', 'metropopolis', 'neo-synthpop', 'noise pop', 'spectra']",https://i.scdn.co/image/ab6761610000e5ebbff8e12b6c79c7497b2a2280,36
+5fMUXHkw8R8eOP2RNVYEZX,Diplo,2,https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop dance']",https://i.scdn.co/image/ab6761610000e5ebdf01727aa674ddefa777797a,76
+7bPs6jf983f0bjRAt1yxDM,Patrick Watson,2,https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM,"['indie folk', 'indie quebecois']",https://i.scdn.co/image/ab6761610000e5eb9ab82294b5896dfa4c4a18c2,71
+5fZxDD1wLAoesdL1uEpDqi,Rofflala,2,https://open.spotify.com/artist/5fZxDD1wLAoesdL1uEpDqi,[],https://i.scdn.co/image/ab6761610000e5ebe5a1d8b2d3eca5d58f22b232,5
+5ie2SvXgvXlTpyqkwLtSd7,Isak Danielson,2,https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7,['swedish singer-songwriter'],https://i.scdn.co/image/ab6761610000e5eb7e15f035c474f65e14ea900f,58
+4jGPdu95icCKVF31CcFKbS,Gentle Bones,2,https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS,['singaporean pop'],https://i.scdn.co/image/ab6761610000e5eba8ae5137548beb2ad0742a77,49
+7eCmccnRwPmRnWPw61x6jM,shy martin,2,https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM,"['alt z', 'swedish electropop']",https://i.scdn.co/image/ab6761610000e5eb099f0cb0095d90858f0e3a14,57
+4q7O0NIvhz0G1IgyfOmdcz,Swanand Kirkire,2,https://open.spotify.com/artist/4q7O0NIvhz0G1IgyfOmdcz,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb1a4808f6894c894984351f5c,60
+4xNez1q78QXUBq6zvKuNrU,Salt Tree,2,https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU,['modern indie folk'],https://i.scdn.co/image/ab6761610000e5eb35b9ee32e4ad6ac808f92e25,50
+7AzjETXRUKNRSJHMW9GIqd,Nina Nesbitt,2,https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd,"['alt z', 'neo-singer-songwriter', 'uk pop']",https://i.scdn.co/image/ab6761610000e5ebd92e78c44f4d2719a02f3939,52
+5Rl15oVamLq7FbSb0NNBNy,5 Seconds of Summer,2,https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy,"['boy band', 'pop']",https://i.scdn.co/image/ab6761610000e5eb5048d9616b459ef90f04b6d8,76
+5HyacDSdBkCTDOBoX49ayp,Parekh & Singh,2,https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp,"['indian indie', 'kolkata indie']",https://i.scdn.co/image/ab6761610000e5eb078b425191810bb2ebc35018,24
+7EkzQPP0cgt2qCnXUg6PHj,Ghostly Kisses,2,https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj,[],https://i.scdn.co/image/ab6761610000e5eb5bfd1ff9f7c2776ad0645177,49
+7FW2qwsY0zLV9GppWatQ5P,Lowswimmer,2,https://open.spotify.com/artist/7FW2qwsY0zLV9GppWatQ5P,['modern indie folk'],https://i.scdn.co/image/ab6761610000e5eb10e39487c5318192f78734d6,60
+55fhWPvDiMpLnE4ZzNXZyW,Noah Cyrus,2,https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW,"['alt z', 'pop']",https://i.scdn.co/image/ab6761610000e5ebb27124cea846fa1154cc58e1,71
+55Aa2cqylxrFIXC767Z865,Lil Wayne,2,https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865,"['hip hop', 'new orleans rap', 'pop rap', 'rap', 'trap']",https://i.scdn.co/image/ab6761610000e5ebc1c08e541eae3cc82c6988c4,85
+7FvQR6QFfXmW18dyMqnHvv,Tommy Newport,2,https://open.spotify.com/artist/7FvQR6QFfXmW18dyMqnHvv,['kansas indie'],https://i.scdn.co/image/ab6761610000e5eb6c7d441b004d4d706294730f,60
+54tv11ndFfiqXiR03PwdlB,Adam Melchor,2,https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB,"['indie pop', 'modern indie folk', 'new jersey indie']",https://i.scdn.co/image/ab6761610000e5ebc935c754fdce193e398d8d7f,51
+540vIaP2JwjQb9dm3aArA4,DJ Snake,2,https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4,"['edm', 'electronic trap', 'pop', 'pop dance']",https://i.scdn.co/image/ab6761610000e5eb4b6c50f5fdfc89384b19cc68,78
+7GGv4mV9JTJK9e7nIzUliU,The Moldy Peaches,2,https://open.spotify.com/artist/7GGv4mV9JTJK9e7nIzUliU,"['anti-folk', 'lo-fi']",https://i.scdn.co/image/ab67616d0000b273a6b3afcdd15b2b561e684337,46
+53A0W3U0s8diEn9RhXQhVz,Keane,2,https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz,"['neo mellow', 'piano rock', 'pop rock']",https://i.scdn.co/image/ab6761610000e5eb92f6dba2793814a1c5aa8d35,73
+52BKc9OtCbQstAAPTIvLGH,James McMurtry,2,https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH,"['alternative country', 'classic texas country', 'folk', 'outlaw country']",https://i.scdn.co/image/ab6772690000c46c9e48e6b923e70cb5359a6d99,42
+50JJSqHUf2RQ9xsHs0KMHg,Jon Bellion,2,https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg,['indie pop rap'],https://i.scdn.co/image/ab6761610000e5ebe0c2c39a5bc940f905aa02f3,64
+4zxdBetdRTmb0P3P6ZXuWS,Justice Smith,2,https://open.spotify.com/artist/4zxdBetdRTmb0P3P6ZXuWS,[],https://i.scdn.co/image/ab6761610000e5eb4a82535f92b332f37be6b693,6
+4yvcSjfu4PC0CYQyLy4wSq,Glass Animals,2,https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq,"['gauze pop', 'indietronica', 'modern rock', 'pov: indie', 'shiver pop']",https://i.scdn.co/image/ab6761610000e5eb66b27eccb69756f8eceabc23,74
+4xnihxcoXWK3UqryOSnbw5,Sasha Alex Sloan,2,https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5,['alt z'],https://i.scdn.co/image/ab6761610000e5eb10b7ef8a43b16465acdc0e1d,68
+4fEkbug6kZzzJ8eYX6Kbbp,KK,2,https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5ebb09a31f853166e721d4d46b2,76
+4bYPcJP5jwMhSivRcqie2n,Adam Levine,2,https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n,['deep talent show'],https://i.scdn.co/image/ab6761610000e5eb4a61c7615c8125e832ffc32c,71
+3yHcgChNW7jVTvgBfgrTeT,BRDGS,2,https://open.spotify.com/artist/3yHcgChNW7jVTvgBfgrTeT,['newfoundland indie'],https://i.scdn.co/image/ab6761610000e5ebb5a200397cd17a6a87c9582b,35
+7o2ZQYM7nTsaVdkXY38UAA,Em Beihold,2,https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA,"['alt z', 'gen z singer-songwriter']",https://i.scdn.co/image/ab6761610000e5eb23c885de4c81852c917608ac,72
+4GvEc3ANtPPjt1ZJllr5Zl,Bazzi,2,https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl,['pop'],https://i.scdn.co/image/ab6761610000e5eb2491594c8f731523e085d84a,69
+5tIkXJTex4JY7cv9mmgAZx,Ruelle,2,https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx,"['bossbeat', 'metropopolis']",https://i.scdn.co/image/ab6761610000e5eb0a5ccd69dc572cf5360a5123,61
+4FtSnMlCVxCswABUmdhwpm,Carly Simon,2,https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm,"['classic rock', 'folk', 'folk rock', 'heartland rock', 'mellow gold', 'singer-songwriter', 'soft rock']",https://i.scdn.co/image/ab6761610000e5ebd167409d8eff3cc0e9aeb21d,62
+4EzkuveR9pLvDVFNx6foYD,James Bay,2,https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD,"['neo mellow', 'pop', 'uk pop']",https://i.scdn.co/image/ab6761610000e5eb613888dde99dca36aede8776,69
+5ugsiK49gIkIVh8U93EO0z,Ami Mishra,2,https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z,['modern bollywood'],https://i.scdn.co/image/ab6761610000e5eb4e641e44de261440295e9577,60
+7n4cyL40CdreXwIw00c8RX,Ben Schuller,2,https://open.spotify.com/artist/7n4cyL40CdreXwIw00c8RX,['otacore'],https://i.scdn.co/image/ab6761610000e5ebb0da53c07b256f2e69a460c3,44
+5y2Xq6xcjJb2jVM54GHK3t,John Legend,2,https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t,"['neo soul', 'pop', 'pop soul', 'urban contemporary']",https://i.scdn.co/image/ab6761610000e5ebba10593e25ec51a3ba4296a0,75
+49IjdVEbQcukWy36sdRMzl,Joel Ansett,2,https://open.spotify.com/artist/49IjdVEbQcukWy36sdRMzl,['christian indie'],https://i.scdn.co/image/ab6761610000e5ebea5c5cadf5b84b536e7f50a7,36
+4as3khXWaPjfkFdCA0JWMo,Jesse®,2,https://open.spotify.com/artist/4as3khXWaPjfkFdCA0JWMo,['modern alternative pop'],https://i.scdn.co/image/ab6761610000e5ebafbdb96d3b45a833372ad031,47
+00JAfwtx5gNiiqyor88Dr5,Arooj Aftab,2,https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5,['pakistani indie'],https://i.scdn.co/image/ab6761610000e5ebd4292a9dc6c76b270d2acafb,41
+62lirbb6qJs4VOGpdCNHK8,MILCK,2,https://open.spotify.com/artist/62lirbb6qJs4VOGpdCNHK8,['la pop'],https://i.scdn.co/image/ab6761610000e5ebc2f3a3867b42dc172ef1c178,39
+64KEffDW9EtZ1y2vBYgq8T,Marshmello,2,https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T,"['brostep', 'edm', 'pop', 'progressive electro house']",https://i.scdn.co/image/ab6761610000e5eb4be60ee03d2210503baedfa2,84
+5KsRA81UaMVKvLNiwDySfp,Jonah Kagen,2,https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp,['singer-songwriter pop'],https://i.scdn.co/image/ab6761610000e5eb88e8f5326197eea380abc175,56
+68Uwx1d3EbjDJhYsLjqvIq,Emma Stone,2,https://open.spotify.com/artist/68Uwx1d3EbjDJhYsLjqvIq,['hollywood'],https://i.scdn.co/image/cee04ea73506df4e3bc77fc334e9cfbd49387383,57
+41Sw7HsskHGbJOJXhLUTEK,Osho Jain,2,https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK,"['indian indie', 'indian singer-songwriter']",https://i.scdn.co/image/ab6761610000e5eb3ea7444ea577d32275c818db,45
+6AnOY77z51J14nEUVsFKTy,Taba Chake,2,https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy,"['arunachal indie', 'indian indie', 'indian singer-songwriter', 'northeast indian indie']",https://i.scdn.co/image/ab6761610000e5ebde6e821c94ce7edd1f073103,40
+4HQeSXwG2BVH0KvxHE5oCf,Suzanne D'Mello,2,https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb6fa9a4ee7a614a28852062cd,61
+5sXaGoRLSpd7VeyZrLkKwt,Gregory Alan Isakov,2,https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt,"['indie folk', 'pop folk', 'stomp and flutter', 'stomp and holler']",https://i.scdn.co/image/ab6761610000e5eb4528d0f9bb51b241561a16f3,70
+5sWHDYs0csV6RS48xBl0tH,Two Feet,2,https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH,"['indie poptimism', 'modern rock']",https://i.scdn.co/image/ab6761610000e5ebfcaa268ce48afd467463ef76,69
+5rfQucYgrOXJ3aD5TuLdoK,Clark Beckham,2,https://open.spotify.com/artist/5rfQucYgrOXJ3aD5TuLdoK,"['idol', 'talent show']",https://i.scdn.co/image/ab6761610000e5ebf8ffab111c49d2945b2576a5,27
+4aR25YYg7R0ROZi1VJ5ONE,Mili Nair,2,https://open.spotify.com/artist/4aR25YYg7R0ROZi1VJ5ONE,[],https://i.scdn.co/image/ab67616d0000b2737d2c854077ab80a4b5dc7c57,37
+5pDjmC5mRl7vDJhsjVwNfk,Freya Ridings,2,https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk,['uk pop'],https://i.scdn.co/image/ab6761610000e5eb6d0e579d7e908a961628fb68,59
+77JtYqejZiIOtqTfrtadna,Jeremiah de Rozario,2,https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna,['indian singer-songwriter'],https://i.scdn.co/image/ab6761610000e5eb4952e3ea6a3907bb88ab55e3,11
+4VIvfOurcf0vuLRxLkGnIG,Bradley Cooper,2,https://open.spotify.com/artist/4VIvfOurcf0vuLRxLkGnIG,['hollywood'],https://i.scdn.co/image/ab6761610000e5eb9400a1dccee9f0df97847c0f,68
+7gOdHgIoIKoe4i9Tta6qdD,Jonas Brothers,2,https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD,"['boy band', 'pop']",https://i.scdn.co/image/ab6761610000e5ebab4364d80728df548a4f7d77,75
+4Tst9Y19f1BUTuCvLEmKaQ,Shirley Setia,2,https://open.spotify.com/artist/4Tst9Y19f1BUTuCvLEmKaQ,[],,2
+5qa31A9HySw3T7MKWI9bGg,FLETCHER,2,https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg,"['alt z', 'pop']",https://i.scdn.co/image/ab6761610000e5ebc0c476d8fedef598522ee5ec,65
+4TH4BHy0LdBi3dpBW4P2UX,R. City,2,https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX,"['reggae fusion', 'virgin islands reggae']",https://i.scdn.co/image/ab6761610000e5ebaab6a4ea243c43f032c50df4,61
+7gXb99Sf9nNmpNYeAgIQFG,Sub Urban,2,https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG,['modern indie pop'],https://i.scdn.co/image/ab6761610000e5ebd0019e1ad7a088651a490862,65
+4S38gbKfKkEbty2YAIDIlV,EMELINE,2,https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV,['alt z'],https://i.scdn.co/image/ab6761610000e5ebf1683e3d6bcecc265c5158b5,59
+4OBJLual30L7gRl5UkeRcT,T.I.,2,https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT,"['atl hip hop', 'dirty south rap', 'gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",https://i.scdn.co/image/ab6761610000e5eb12057d342f33c61b3768f2bc,74
+7h4j9YTJJuAHzLCc3KCvYu,Kina Grannis,2,https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu,"['acoustic pop', 'viral pop']",https://i.scdn.co/image/ab6761610000e5ebe925f14dffbe7d1d631ec33e,59
+4NHQUGzhtTLFvgF5SZesLK,Tove Lo,2,https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK,"['dance pop', 'metropopolis', 'pop', 'swedish electropop', 'swedish pop', 'swedish synthpop']",https://i.scdn.co/image/ab6761610000e5ebf43f1646fe2bffb471b25e17,72
+4M5nCE77Qaxayuhp3fVn4V,Iron & Wine,2,https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V,"['acoustic pop', 'chamber pop', 'indie folk', 'indie rock', 'stomp and holler']",https://i.scdn.co/image/ab6761610000e5eb6554f29133d7e27979e009d7,63
+4K4N32uNO1VRSY4hB7v8kg,Anushka Manchanda,2,https://open.spotify.com/artist/4K4N32uNO1VRSY4hB7v8kg,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab67616d0000b273c9801c31919e91bc30900ddb,54
+2sWUmJoRUXuVfUIgaC1Zhp,House On The Clouds,2,https://open.spotify.com/artist/2sWUmJoRUXuVfUIgaC1Zhp,[],https://i.scdn.co/image/ab67616d0000b27332a9a6c1ab48ee111d19ec17,16
+46CitWgnWrvF9t70C2p1Me,Daughter,2,https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me,"['chamber pop', 'shimmer pop']",https://i.scdn.co/image/ab6761610000e5eb0df313bc99b24276ea978437,60
+2qV4ArHDzLVSdX6GWy5R1z,Vaibhav Bundhoo,2,https://open.spotify.com/artist/2qV4ArHDzLVSdX6GWy5R1z,['mumbai indie'],https://i.scdn.co/image/ab6761610000e5eba44b50fdab2597c5f2e1162e,29
+0VRj0yCOv2FXJNP47XQnx5,Quavo,2,https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5,"['atl hip hop', 'melodic rap', 'rap', 'trap']",https://i.scdn.co/image/ab6761610000e5eb14f31cb638401481a5bdfc45,78
+0dcxj82ddksd6tDDcJgbqo,Thomas Reid,2,https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo,['sad lo-fi'],https://i.scdn.co/image/ab6761610000e5eb9bc3ca3d56bab48066aae83a,46
+11PIHAhH0HI8SCdjhJ5zyA,Tanvi Shah,2,https://open.spotify.com/artist/11PIHAhH0HI8SCdjhJ5zyA,"['filmi', 'tamil pop']",https://i.scdn.co/image/ab6761610000e5eb3b39acc2e632364a89e07952,57
+0cGUm45nv7Z6M6qdXYQGTX,Kehlani,2,https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX,"['pop', 'r&b', 'rap']",https://i.scdn.co/image/ab6761610000e5ebd2657bcafcb300d90816523f,73
+2DFCHTDIA0t638a4mm37dK,Raj Shekhar,2,https://open.spotify.com/artist/2DFCHTDIA0t638a4mm37dK,['modern bollywood'],https://i.scdn.co/image/ab6761610000e5ebcd3f6cc1ca9674499a199c67,71
+2DaxqgrOhkeH0fpeiQq2f4,Oasis,2,https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4,"['beatlesque', 'britpop', 'madchester', 'permanent wave', 'rock']",https://i.scdn.co/image/ab6761610000e5eba572b3112ccbf374488fed58,76
+1eIoJGCu3rShrRm2wfOhN8,Saint Raymond,2,https://open.spotify.com/artist/1eIoJGCu3rShrRm2wfOhN8,"['english indie rock', 'hopebeat', 'indie anthem-folk']",https://i.scdn.co/image/ab6761610000e5ebbbc551d44c35c4f323f42eac,44
+0YT2qePIbiaMO1d54yR9K6,Medha Sahi,2,https://open.spotify.com/artist/0YT2qePIbiaMO1d54yR9K6,[],https://i.scdn.co/image/ab6761610000e5eb1fefaa940e317470c9b3f713,21
+2DwWEmeVaWxwkjbnyPlNZT,Dominique Cerejo,2,https://open.spotify.com/artist/2DwWEmeVaWxwkjbnyPlNZT,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab67616d0000b273b270a367407a446039b0250c,51
+0WfaItAbs4vlgIA1cuqGtJ,Daniela Andrade,2,https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ,"['canadian contemporary r&b', 'folk-pop']",https://i.scdn.co/image/ab6761610000e5ebf6e6bb8d43716ac8e066011b,54
+2FXC3k01G6Gw61bmprjgqS,Hozier,2,https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS,"['irish singer-songwriter', 'modern rock', 'pov: indie']",https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a,82
+1cZQSpDsxgKIX2yW5OR9Ot,Lennon Stella,2,https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot,"['alt z', 'canadian pop', 'uk pop']",https://i.scdn.co/image/ab6761610000e5ebd28e3bcc85f25f2814aa3830,60
+1cWyN6TA0n4j9JtqI0sOpt,TeaMarrr,2,https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt,"['alternative r&b', 'boston hip hop']",https://i.scdn.co/image/ab6761610000e5eb9a3e74b0fa6d16877a6be64c,38
+2JSYASbWU5Y0fVpts3Eq7g,R. D. Burman,2,https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g,"['chutney', 'classic bollywood', 'filmi']",https://i.scdn.co/image/ab6761610000e5ebd3b213d51e0ea60f0c768a38,71
+0K87f3owemzI8NUCoEIXOB,vaultboy,2,https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB,['singer-songwriter pop'],https://i.scdn.co/image/ab6761610000e5ebc1f2a8b24d9356abc10cdce9,61
+137W8MRPWKqSmrBGDBFSop,Wiz Khalifa,2,https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop,"['hip hop', 'pittsburgh rap', 'pop rap', 'rap', 'southern hip hop', 'trap']",https://i.scdn.co/image/ab6761610000e5eb2cdddc4dd42f7403f0d7bb9c,81
+2KofAEA8S0jDDXjSg6a3HR,Johnny Jewel,2,https://open.spotify.com/artist/2KofAEA8S0jDDXjSg6a3HR,[],https://i.scdn.co/image/ab6761610000e5eba651dbb7b175aec299eac832,36
+2KsP6tYLJlTBvSUxnwlVWa,Mike Posner,2,https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa,"['dance pop', 'pop', 'pop dance', 'pop rap']",https://i.scdn.co/image/ab6761610000e5eb5ca6c70cd9661b2eca98999f,69
+1bq8rqNnfrojn0OSAfeNXJ,Sarcastic Sounds,2,https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ,"['lo-fi chill', 'sad lo-fi']",https://i.scdn.co/image/ab6761610000e5eb91fd0bccbc7c68bce634d9fd,59
+13ubrt8QOOCPljQ2FL1Kca,A$AP Rocky,2,https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca,"['east coast hip hop', 'hip hop', 'rap', 'trap']",https://i.scdn.co/image/ab6761610000e5eb5c58c41a506a0d6b32cc6cad,82
+2LJxr7Pt3JnP60eLxwbDOu,Mandy Moore,2,https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu,"['dance pop', 'neo mellow', 'post-teen pop']",https://i.scdn.co/image/ab6761610000e5eb65c99d6d784dc2cabd2a5492,63
+0RMeG9M8QFzss9bAbq99KA,Maddix,2,https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA,['big room'],https://i.scdn.co/image/ab6761610000e5eb277592874b498882300913c1,66
+1Xylc3o4UrD53lo9CvFvVg,Zara Larsson,2,https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg,"['pop', 'scandipop', 'swedish electropop', 'swedish pop']",https://i.scdn.co/image/ab6761610000e5eb7619ca2683b434e139040f70,78
+0Qrp8cpHBz47dbOyPfzzhP,Andy Kong,2,https://open.spotify.com/artist/0Qrp8cpHBz47dbOyPfzzhP,[],https://i.scdn.co/image/ab6761610000e5eb0999330a83a02f6d58d6c3cc,29
+2Tg0aF5cbZktYFzgR1iAKv,Julie Bergan,2,https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv,['norwegian pop'],https://i.scdn.co/image/ab6761610000e5eb54fec96187fdeaee364758f2,55
+142YBUGmLWCJigFLzgguf8,Gang of Youths,2,https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8,"['australian indie', 'modern rock']",https://i.scdn.co/image/ab6761610000e5eb49cc52e8c14304c5ce368adf,56
+0LSPREIgGMZXCuKVel7LVD,Karthik,2,https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD,['filmi'],https://i.scdn.co/image/ab6761610000e5ebc3eae1d64408df9eb83d583f,73
+1f7a91vYZcvnBsTRvxFff1,Zariya,2,https://open.spotify.com/artist/1f7a91vYZcvnBsTRvxFff1,"['hindi indie', 'indian singer-songwriter']",https://i.scdn.co/image/ab6761610000e5eb169c65d335869f614864fa32,34
+1hEew8IFcwMc0gpMyHJm8u,Mad Circuit,2,https://open.spotify.com/artist/1hEew8IFcwMc0gpMyHJm8u,['bossbeat'],https://i.scdn.co/image/ab6761610000e5eb2d8e8efc341edfe1b0dd0e25,24
+0xWGBvlwCBHAgXyR7TmPwp,Hriday Gattani,2,https://open.spotify.com/artist/0xWGBvlwCBHAgXyR7TmPwp,['hindi indie'],https://i.scdn.co/image/ab6761610000e5eb979882e56c8e260682783926,43
+29L00LK0aSCpgPBvMs483t,Indus Creed,2,https://open.spotify.com/artist/29L00LK0aSCpgPBvMs483t,['indian rock'],https://i.scdn.co/image/ab67616d0000b273e68891111838b85b5af0864b,12
+0naOCLau0NmL1kdFlbZAfr,November Ultra,2,https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr,[],https://i.scdn.co/image/ab6761610000e5ebde1373e73321ff562fda40fa,47
+0myVJmNOHZ7v7g8JVWGw8H,Vasundhara Das,2,https://open.spotify.com/artist/0myVJmNOHZ7v7g8JVWGw8H,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5ebaaab736e9e4c7e085c520f57,56
+1vyhD5VmyZ7KMfW5gqLgo5,J Balvin,2,https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",https://i.scdn.co/image/ab6761610000e5ebeacb832512fec776bbdac3a6,85
+0rL4uL3xfYOt2p7NHhS8qr,Vishal Chandrashekhar,2,https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr,"['tamil pop', 'tollywood']",https://i.scdn.co/image/ab6761610000e5ebdab7075707730dbf3202905c,60
+0rZp7G3gIH6WkyeXbrZnGi,Novo Amor,2,https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi,"['ambient folk', 'indie anthem-folk', 'indie folk', 'modern indie folk']",https://i.scdn.co/image/ab6761610000e5eb18a1928eb2892201f56d39e0,72
+1yg5oFeG0AQ0v8Cq5ypFps,Zebunissa Bangash,2,https://open.spotify.com/artist/1yg5oFeG0AQ0v8Cq5ypFps,['indian singer-songwriter'],,10
+1zNqDE7qDGCsyzJwohVaoX,Anne-Marie,2,https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX,['pop'],https://i.scdn.co/image/ab6761610000e5eb67013e289b84440ce3d1c88e,78
+1zNqQNIdeOUZHb8zbZRFMX,Swae Lee,2,https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX,"['melodic rap', 'rap', 'trap']",https://i.scdn.co/image/ab6761610000e5ebf1be22786da29b0a1284c0a5,80
+1u7DsNFbakULvxnDGtMm90,Enrico Sangiuliano,2,https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90,"['dark techno', 'italian techno']",https://i.scdn.co/image/ab6761610000e5eb06039853033670a89d0a6ed6,54
+0sDZqRLIBL1Gr5gikfV1xz,Laza Morgan,2,https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz,['reggae fusion'],https://i.scdn.co/image/ab6761610000e5eb2fff218b56a67bc02ebffb61,32
+20JZFwl6HVl6yg8a4H3ZqK,Panic! At The Disco,2,https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK,"['modern rock', 'pop']",https://i.scdn.co/image/ab6761610000e5ebb256ae9a4b82bfff97776ae2,77
+20j1uz7iDOtIvIzCr5S8nx,SEUNGRI,2,https://open.spotify.com/artist/20j1uz7iDOtIvIzCr5S8nx,['k-pop'],https://i.scdn.co/image/ab6761610000e5eb75d568a0463e2a58adfda1b4,53
+20wkVLutqVOYrc0kxFs7rA,Daniel Caesar,2,https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA,['canadian contemporary r&b'],https://i.scdn.co/image/ab6761610000e5ebe5bc630548fb3517cf90edb8,81
+1r1uxoy19fzMxunt3ONAkG,Phoebe Bridgers,2,https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG,"['indie pop', 'la indie', 'pov: indie']",https://i.scdn.co/image/ab6761610000e5eb626686e362d30246e816cc5b,78
+1qwVM2JnEMXbKgvZESGsRn,Leroy Sanchez,2,https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn,"['channel pop', 'viral pop']",https://i.scdn.co/image/ab6761610000e5eb7dad8257b1d2551e8d626b0e,50
+23fqKkggKUBHNkbKtXEls4,Kygo,2,https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4,"['edm', 'pop', 'pop dance', 'tropical house']",https://i.scdn.co/image/ab6761610000e5ebe636670d717588b11d654130,79
+23zg3TcAtWQy7J6upgbUnj,USHER,2,https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj,"['atl hip hop', 'contemporary r&b', 'dance pop', 'pop', 'r&b', 'rap', 'south carolina hip hop', 'urban contemporary']",https://i.scdn.co/image/ab6761610000e5eb716114797a4a644c67c5fa72,84
+0tvpihdAsKiNnP6sWS3jUI,TroyBoi,2,https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI,"['bass trap', 'electronic trap']",https://i.scdn.co/image/ab6761610000e5ebd1fa76f62c61486dd01295c4,57
+25gnI283I0hYFzSs6FRJJL,Madhurima,2,https://open.spotify.com/artist/25gnI283I0hYFzSs6FRJJL,[],,0
+1ooV8YZC1KbpEcrmI8WH0F,Yebba,2,https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F,['pop soul'],https://i.scdn.co/image/ab6761610000e5ebc7c93edb239b99c22a84bdd9,66
+26T3LtbuGT1Fu9m0eRq5X3,Cage The Elephant,2,https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3,"['modern alternative rock', 'modern rock', 'pov: indie', 'punk blues', 'rock']",https://i.scdn.co/image/ab6761610000e5eb4b895ec91da05e35c650fa60,73
+0inkJpjAKDnQOv2VHBCU0Z,SadBoyProlific,2,https://open.spotify.com/artist/0inkJpjAKDnQOv2VHBCU0Z,"['sad lo-fi', 'sad rap']",https://i.scdn.co/image/ab6761610000e5ebff156c1de16427e82fb3c082,61
+0iEtIxbK0KxaSlF7G42ZOp,Metro Boomin,2,https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp,"['hip hop', 'rap']",https://i.scdn.co/image/ab6761610000e5ebdf9a1555f53a20087b8c5a5c,88
+0gadJ2b9A4SKsB1RFkBb66,Passenger,2,https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66,"['folk-pop', 'neo mellow']",https://i.scdn.co/image/ab6761610000e5eb3eb6f55c271d954cc871954f,71
+0x3PXj1WnuW7YsBxQK57xM,Ruben,2,https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM,['norwegian pop'],https://i.scdn.co/image/ab6761610000e5eb7977a3ced98b208624ec6210,52
+2Z5Fwohe32YFEjPpuiSAo1,Aseem,2,https://open.spotify.com/artist/2Z5Fwohe32YFEjPpuiSAo1,"['indian singer-songwriter', 'pune indie']",https://i.scdn.co/image/ab6761610000e5eb3f5cabd4d3b8592e7b22fc13,34
+0oUsTn1Xs1BCHlRw1RGD7R,Ditty,2,https://open.spotify.com/artist/0oUsTn1Xs1BCHlRw1RGD7R,['indian indie'],https://i.scdn.co/image/ab6761610000e5ebe0296e4e0454f69e12f09f69,26
+1SOubzv0uhrziEXbNLMUw9,sundial,2,https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9,[],https://i.scdn.co/image/ab6761610000e5ebb615c2470f85910f4ee894cd,48
+2ckYmy0ueLXjmwWcPs1spQ,Donn Bhat,2,https://open.spotify.com/artist/2ckYmy0ueLXjmwWcPs1spQ,"['indian indie', 'indian rock', 'mumbai indie']",https://i.scdn.co/image/ab6761610000e5eb315862bf6f4839a28f702008,18
+1KIKn2xA1mgC7uJTcS1hEU,Loy Mendonsa,2,https://open.spotify.com/artist/1KIKn2xA1mgC7uJTcS1hEU,['modern bollywood'],https://i.scdn.co/image/ab67616d0000b273e7bb19bf7e6409581105f47f,57
+0E02VcvA5p1ndkLdqWD5JB,Ankit Tiwari,2,https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb4d9659081d3facaf14e427b1,65
+2l35CQqtYRh3d8ZIiBep4v,MKTO,2,https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v,"['pop', 'post-teen pop']",https://i.scdn.co/image/ab6761610000e5ebbc861f3d1ba68614d3a301b4,64
+2feDdbD5araYcm6JhFHHw7,Labrinth,2,https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7,"['indie poptimism', 'pop']",https://i.scdn.co/image/ab6761610000e5eb7885d725841e0338092f5f6f,77
+02YLJJnWC7YQVixkjEBRn7,Billie Marten,2,https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7,"['british singer-songwriter', 'indie anthem-folk']",https://i.scdn.co/image/ab6761610000e5ebbbe4050d8b1d6ede32ef2b4f,55
+1A0lRymsIznjGAcPkylZ2D,Many,2,https://open.spotify.com/artist/1A0lRymsIznjGAcPkylZ2D,[],,0
+1RyvyyTE3xzB2ZywiAwp0i,Future,2,https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i,"['atl hip hop', 'hip hop', 'rap', 'southern hip hop', 'trap']",https://i.scdn.co/image/ab6761610000e5eb24e41f491b129093a6fee383,89
+0Dt97GvTO4dxdBYqyxLwLY,Lilianna Wilde,2,https://open.spotify.com/artist/0Dt97GvTO4dxdBYqyxLwLY,['meme'],https://i.scdn.co/image/ab6761610000e5eb499247d93b29802bf28341da,39
+2h93pZq0e7k5yf4dywlkpM,Frank Ocean,2,https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM,"['lgbtq+ hip hop', 'neo soul']",https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab,84
+1AZ30JnvQU1pbX6sbRE0Yn,Poets of the Fall,2,https://open.spotify.com/artist/1AZ30JnvQU1pbX6sbRE0Yn,['finnish alternative rock'],https://i.scdn.co/image/ab6761610000e5eb588384c8f17205bfa3d6624c,50
+1DjoNMVe0jYejgYoGegVzC,Deane Sequeira,2,https://open.spotify.com/artist/1DjoNMVe0jYejgYoGegVzC,['desi hip hop'],https://i.scdn.co/image/ab67616d0000b273baf1227513e348790bebf48d,35
+04jC0vqWW2xa1HLQzXTyPY,Ravi Singhal,2,https://open.spotify.com/artist/04jC0vqWW2xa1HLQzXTyPY,[],https://i.scdn.co/image/ab6761610000e5eb5c5eb350b8b1e487177d124a,26
+2jnIB6XdLvnJUeNTy5A0J2,Why Don't We,2,https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2,"['boy band', 'pop']",https://i.scdn.co/image/ab6761610000e5eb9160fac7a1ecb8ee89a633ac,66
+2kkQthS9OLpK4UqNWYqoVl,Jeet Gannguli,2,https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl,"['filmi', 'modern bollywood', 'west bengali pop']",https://i.scdn.co/image/ab6761610000e5eb4071f043160cd787e6a483ce,65
+085pc2PYOi8bGKj0PNjekA,will.i.am,2,https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA,"['dance pop', 'pop']",https://i.scdn.co/image/ab6761610000e5ebc9ab8da6f7a3ce02f0b16fd8,72
+0B3N0ZINFWvizfa8bKiz4v,James TW,2,https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v,"['british singer-songwriter', 'uk pop']",https://i.scdn.co/image/ab6761610000e5eb856c04f446eb4217fc1de30f,62
+1OH3Hbbo6G6uBWunJnU148,Jonas Alaska,2,https://open.spotify.com/artist/1OH3Hbbo6G6uBWunJnU148,"['norwegian indie', 'norwegian pop']",https://i.scdn.co/image/ab6761610000e5eba2ce28c24d77498a5a48523a,29
+1FWl7I9wJpb7Bhhutef4Xe,Taaruk Raina,2,https://open.spotify.com/artist/1FWl7I9wJpb7Bhhutef4Xe,['desi pop'],https://i.scdn.co/image/ab6761610000e5eb944f8c68807b06ee6aa81dac,52
+1QRj3hoop9Mv5VvHQkwPEp,Olivia O'Brien,2,https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp,"['alt z', 'pop']",https://i.scdn.co/image/ab6761610000e5eb3fc309291abaad3515ea1e21,64
+00TKPo9MxwZ0j4ooveIxWZ,Loote,2,https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ,"['alt z', 'nyc pop']",https://i.scdn.co/image/ab6761610000e5eb4faf8955163653dc8f0772c7,52
+00sCATpEvwH48ays7PlQFU,Jonita Gandhi,2,https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eba308d2dbeeb587cb5e9220db,70
+1HMOlfBc4CK1WXcIeNnLPq,Kamakshi Khanna,2,https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq,"['indian indie', 'indian singer-songwriter', 'new delhi indie', 'pune indie']",https://i.scdn.co/image/ab6761610000e5eb63042f7d2947410e8bc3c453,27
+2cADQgiLMjNhbsfeN52Bf3,Swizz Beatz,2,https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3,"['battle rap', 'dirty south rap', 'southern hip hop', 'trap']",https://i.scdn.co/image/ab6761610000e5ebaab238968309b88b14407cbd,62
+1UdYhDdrXVNJMAKghjdU6v,Joi Barua,2,https://open.spotify.com/artist/1UdYhDdrXVNJMAKghjdU6v,['northeast indian indie'],https://i.scdn.co/image/ab6761610000e5ebf6567d94f1cb0928d53a91ed,42
+1KCSPY1glIKqW2TotWuXOR,P!nk,2,https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR,"['dance pop', 'pop']",https://i.scdn.co/image/ab6761610000e5eb7bbad89a61061304ec842588,81
+2oSONSC9zQ4UonDKnLqksx,Atif Aslam,2,https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx,"['classic pakistani pop', 'filmi', 'modern bollywood', 'sufi']",https://i.scdn.co/image/ab6761610000e5ebc40600e02356cc86f0debe84,76
+1W7FNibLa0O0b572tB2w7t,Pink Sweat$,2,https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t,['bedroom soul'],https://i.scdn.co/image/ab6761610000e5eb69bda36cbaa450c1c895b5cc,67
+5iMwtfRXe21mr0bJeTj9Bl,Marley Chapman,1,https://open.spotify.com/artist/5iMwtfRXe21mr0bJeTj9Bl,[],,24
+6QrQ7OrISRYIfS5mtacaw2,Jaymes Young,1,https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2,['indie poptimism'],https://i.scdn.co/image/ab6761610000e5eb87528aedec4b8d5586768014,67
+5gCRApTajqwbnHHPbr2Fpi,Juicy J,1,https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi,"['crunk', 'memphis hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",https://i.scdn.co/image/ab6761610000e5eb116fc50265ef72d7e66723a5,73
+5oRnbmgqvvq7fVlgk4vcEa,Gary Jules,1,https://open.spotify.com/artist/5oRnbmgqvvq7fVlgk4vcEa,['neo mellow'],https://i.scdn.co/image/ab6761610000e5ebc97b9b892e5fa7fef9ac8571,51
+5fvTHKKzW44A9867nPDocM,Ajay-Atul,1,https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM,['filmi'],https://i.scdn.co/image/ab67616d0000b273b22e21de789378f223e1795f,64
+6SwVPmSTMYlcy2vTWyE3aC,Boostereo,1,https://open.spotify.com/artist/6SwVPmSTMYlcy2vTWyE3aC,['covertronica'],https://i.scdn.co/image/ab6761610000e5eb703d121a7da07da68fd7cc7b,51
+0vW8z9pZMGCcRtGPGtyqiB,The Maccabees,1,https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB,"['british indie rock', 'indie rock', 'modern rock', 'scottish rock']",https://i.scdn.co/image/7446b5ed44788a95db015fda010a94a824d61d35,46
+6RHKEd9dpzQ4c09x8Zdaxu,Clara Mae,1,https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu,"['alt z', 'swedish pop']",https://i.scdn.co/image/ab6761610000e5eb0453ff21cb76ad424633ab81,51
+1GmsPCcpKgF9OhlNXjOsbS,Lizzy McAlpine,1,https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS,"['alt z', 'boston folk', 'indie pop', 'singer-songwriter pop']",https://i.scdn.co/image/ab6761610000e5ebb7e3d5ad48cc67f32a3a0930,72
+6Qgu15WObtjiN69At1FRTE,Rapper Blaze,1,https://open.spotify.com/artist/6Qgu15WObtjiN69At1FRTE,[],https://i.scdn.co/image/ab6761610000e5eba4bc50d4b0799f8c26919972,7
+6TIYQ3jFPwQSRmorSezPxX,mgk,1,https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX,"['ohio hip hop', 'pop rap']",https://i.scdn.co/image/ab6761610000e5eb6659c0c409fee150c1f7c879,77
+6Q192DXotxtaysaqNPy5yR,Amy Winehouse,1,https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR,"['british soul', 'neo soul']",https://i.scdn.co/image/ab6761610000e5eb2ceb023b10da17590878e88c,75
+6PvvGcCY2XtUcSRld1Wilr,Silk Sonic,1,https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr,['neo soul'],https://i.scdn.co/image/ab6772690000c46ca3ebb27ba9a55044f32af6e1,71
+6OmIk51WhiXbYhLwaqjuMp,Hogni,1,https://open.spotify.com/artist/6OmIk51WhiXbYhLwaqjuMp,['faroese pop'],https://i.scdn.co/image/ab6761610000e5ebbf997839616a001e25a5fcd8,20
+6N7HQGSTngvAUUqDquoXfI,Tangerine Rye,1,https://open.spotify.com/artist/6N7HQGSTngvAUUqDquoXfI,[],https://i.scdn.co/image/ab6761610000e5eb6f4325cbd09fd7bbe91d249b,6
+0vYQRW5LIDeYQOccTviQNX,Kris Kristofferson,1,https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX,"['country', 'country rock', 'outlaw country', 'singer-songwriter']",https://i.scdn.co/image/c89f4c57259c307731fe2ba93fb9d0ff40096ecd,62
+0vgTfoEDCKTyYfGf5HIdH2,Sweet Talk Radio,1,https://open.spotify.com/artist/0vgTfoEDCKTyYfGf5HIdH2,['la indie'],https://i.scdn.co/image/ab6761610000e5ebfcd1e802f4829a143667fe09,23
+6MPCFvOQv5cIGfw3jODMF0,Internet Money,1,https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0,"['pop rap', 'trap']",https://i.scdn.co/image/ab6761610000e5eb30cc15d302e22803fcb5ad34,67
+6M2wZ9GZgrQXHCFfjv46we,Dua Lipa,1,https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we,"['dance pop', 'pop', 'uk pop']",https://i.scdn.co/image/ab6761610000e5eb4e125f9c0f56dfb73fb97eaa,88
+5dHt1vcEm9qb8fCyLcB3HL,A$AP Ferg,1,https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL,"['hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",https://i.scdn.co/image/ab6761610000e5ebf1122f644f19ba22750d2bd8,69
+6d4jrmreCmsenscuieJERc,The Band CAMINO,1,https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc,"['hopebeat', 'pov: indie']",https://i.scdn.co/image/ab6761610000e5eb616d3ef22fcb8e740f04f59a,59
+6U3ybJ9UHNKEdsH7ktGBZ7,JID,1,https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7,"['hip hop', 'pop rap', 'rap', 'underground hip hop']",https://i.scdn.co/image/ab6761610000e5eb10781f7b76a5eb0d397e02c9,78
+6TVdVlY6irsNPkMHT2HkfD,Space 92,1,https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD,['french techno'],https://i.scdn.co/image/ab6761610000e5ebdc59edaab7cf38c6bbd4b0bd,54
+5iNrZmtVMtYev5M9yoWpEq,Seeb,1,https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq,['pop dance'],https://i.scdn.co/image/ab6761610000e5eb4a11d09ad6ead945d9376e67,67
+6beUvFUlKliUYJdLOXNj9C,King Princess,1,https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C,"['alt z', 'indie pop', 'nyc pop']",https://i.scdn.co/image/ab6761610000e5ebdced725bdaf4014fdf5c3238,57
+0tv4nbsbmONiQafk2fTens,Zavalaa,1,https://open.spotify.com/artist/0tv4nbsbmONiQafk2fTens,[],,0
+6bOYtKnpLPQSfMpS2ilotK,Bobby Vinton,1,https://open.spotify.com/artist/6bOYtKnpLPQSfMpS2ilotK,"['adult standards', 'bubblegum pop', 'doo-wop', 'easy listening', 'rock-and-roll', 'rockabilly']",https://i.scdn.co/image/84a23af9ce6d6dcaf761e4cdd7833a4785d691bf,51
+6ae2D7027IqzKCekbnG21O,Mauli Dave,1,https://open.spotify.com/artist/6ae2D7027IqzKCekbnG21O,[],https://i.scdn.co/image/ab6761610000e5eb912743112bdd6e99ffbdab2c,15
+6Z8D437D8u4IdirS4Jc58d,Joe Brooks,1,https://open.spotify.com/artist/6Z8D437D8u4IdirS4Jc58d,['viral pop'],https://i.scdn.co/image/ab6761610000e5eb6da75aa5fce59326c7190d66,30
+6c4sUNBgdonFJz8Kx2VsGz,Madcon,1,https://open.spotify.com/artist/6c4sUNBgdonFJz8Kx2VsGz,['norwegian hip hop'],https://i.scdn.co/image/ab6761610000e5ebf8805c34d9906f9c681d8c16,61
+6XyY86QOPPrYVGvF9ch6wz,Linkin Park,1,https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz,"['alternative metal', 'nu metal', 'post-grunge', 'rap metal', 'rock']",https://i.scdn.co/image/ab6761610000e5eb84a0dd74f21e8acce6a9fd49,85
+6XYvaoDGE0VmRt83Jss9Sn,King Gizzard & The Lizard Wizard,1,https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn,"['australian psych', 'double drumming', 'microtonal', 'neo-psychedelic']",https://i.scdn.co/image/ab6761610000e5ebae21e90221e814c50033133a,62
+1Dt1UKLtrJIW1xxRBejjos,The Blaze,1,https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos,['new french touch'],https://i.scdn.co/image/ab6761610000e5ebc47d7909754b4c16982e5626,63
+6WY7D3jk8zTrHtmkqqo5GI,Maren Morris,1,https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI,"['classic texas country', 'contemporary country']",https://i.scdn.co/image/ab6761610000e5ebcfbf5314f6d5ff5e516534b9,69
+6c9QzUS4FsfkV31t39lnbU,Kenton Slash Demon,1,https://open.spotify.com/artist/6c9QzUS4FsfkV31t39lnbU,['danish electropop'],https://i.scdn.co/image/ab6761610000e5eb2b190b7ebd4625066b65095d,24
+6WFDpw4u23uSpon4BHvFRn,Cat Burns,1,https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn,['uk pop'],https://i.scdn.co/image/ab6761610000e5ebbd53477d3d558ebe35fa187b,63
+5mRWjW6dJFcoX1CnA9J92J,Julius Packiam-Joshilay,1,https://open.spotify.com/artist/5mRWjW6dJFcoX1CnA9J92J,[],https://i.scdn.co/image/ab67616d0000b273d9cc24c0d415e40d5af3c8d5,34
+6W32hq7OVgrNXNCEU4RgfD,Tamae,1,https://open.spotify.com/artist/6W32hq7OVgrNXNCEU4RgfD,[],https://i.scdn.co/image/ab6761610000e5ebc99379697140fe50b41365cf,49
+5ghnxpW47ojtLHHyTLdxdY,Witt Lowry,1,https://open.spotify.com/artist/5ghnxpW47ojtLHHyTLdxdY,"['deep underground hip hop', 'indie pop rap']",https://i.scdn.co/image/ab6761610000e5eb7b1a285718dc71b9d7bbcd04,58
+0xlt7JpfQEvG9to5B06oPL,Thomas Benjamin Wild Esq,1,https://open.spotify.com/artist/0xlt7JpfQEvG9to5B06oPL,['comic'],https://i.scdn.co/image/ab6761610000e5ebfd908d82f6923b765f7a6e81,35
+6VxCmtR7S3yz4vnzsJqhSV,Sheppard,1,https://open.spotify.com/artist/6VxCmtR7S3yz4vnzsJqhSV,"['australian indie', 'australian pop', 'folk-pop']",https://i.scdn.co/image/ab6761610000e5eb2267c8de897d96c45ed86acb,60
+5nCi3BB41mBaMH9gfr6Su0,fun.,1,https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0,"['baroque pop', 'metropopolis']",https://i.scdn.co/image/37bc85c957e17d3463ae40da1c8ade6bb5ecd546,66
+6VXZCpbkwm0W0aPjQR1t4K,Youngblood Hawke,1,https://open.spotify.com/artist/6VXZCpbkwm0W0aPjQR1t4K,"['la indie', 'shimmer pop']",https://i.scdn.co/image/ab6761610000e5eb608e21c66f8f9bcd1780eb08,41
+5nuipt5MF5Np09BWob9N6N,Ewan J Phillips,1,https://open.spotify.com/artist/5nuipt5MF5Np09BWob9N6N,['british singer-songwriter'],https://i.scdn.co/image/ab6761610000e5eb4eecae5fbd2f92cbeb7bce69,30
+6caPJFLv1wesmM7gwK1ACy,Boris Brejcha,1,https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy,"['german house', 'german techno', 'high-tech minimal', 'minimal techno']",https://i.scdn.co/image/ab6761610000e5eb33c9b5dcc05194199aa68410,62
+6USMTwO0MNDnKte5a5h0xx,Y2K,1,https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx,"['pop rap', 'viral rap']",https://i.scdn.co/image/ab6761610000e5ebd39b1490e50c3535d56b486f,58
+5gWzmnHTLNXz5CjOc0wAuK,Romy Dya,1,https://open.spotify.com/artist/5gWzmnHTLNXz5CjOc0wAuK,['dutch pop'],https://i.scdn.co/image/ab6761610000e5eb22659895ce4b40cb1748c13f,48
+5v2WhpA59TJSdPh7LCx1lN,BONES,1,https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN,"['cloud rap', 'dark trap']",https://i.scdn.co/image/ab6761610000e5eb31672210ac133d978de5ce45,73
+6HaGTQPmzraVmaVxvz6EUc,Jung Kook,1,https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc,['k-pop'],https://i.scdn.co/image/ab6761610000e5eb40a7268dd742e5f63759b960,86
+6LtXxYMIiKSy2EGHnz1f5j,Brutalismus 3000,1,https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j,['nu gabber'],https://i.scdn.co/image/ab6761610000e5ebcd152cf02b11570913ba06c4,58
+13y7CgLHjMVRMDqxdx0Xdo,Gucci Mane,1,https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo,"['atl hip hop', 'dirty south rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",https://i.scdn.co/image/ab6761610000e5ebb9b77f64bd278ffde2c94428,76
+66W9LaWS0DPdL7Sz8iYGYe,JP Saxe,1,https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe,"['alt z', 'canadian contemporary r&b', 'singer-songwriter pop']",https://i.scdn.co/image/ab6761610000e5ebe5ad2bb4e1b1795a1a4bc713,65
+17lzZA2AlOHwCwFALHttmp,2 Chainz,1,https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp,"['atl hip hop', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap']",https://i.scdn.co/image/ab6761610000e5ebf556662d187b9191c421be1c,75
+13YVfXddjRIUrubItJjadb,Margaret Glaspy,1,https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb,"['indie folk', 'indie pop']",https://i.scdn.co/image/ab6761610000e5eb1e1e1ec49e53b9b01e195bbc,34
+65eKzckWWGA123QUyi2Qo3,Jai Waetford,1,https://open.spotify.com/artist/65eKzckWWGA123QUyi2Qo3,"['australian pop', 'teen pop']",https://i.scdn.co/image/ab6761610000e5ebb9fd7b7ce35229702b31de70,40
+65C6Unk7nhg2aCnVuAPMo8,Animals As Leaders,1,https://open.spotify.com/artist/65C6Unk7nhg2aCnVuAPMo8,"['djent', 'instrumental djent', 'instrumental rock', 'jazz metal', 'progressive jazz fusion', 'progressive metal']",https://i.scdn.co/image/ab6761610000e5eb720141a7b1a39da1cfa735a5,49
+5tDjiBYUsTqzd0RkTZxK7u,Ben Böhmer,1,https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u,['melodic house'],https://i.scdn.co/image/ab6761610000e5ebfaef530ff2054cc5166fc78e,63
+17TFSnqADESRM8BPSaM5aB,Krono,1,https://open.spotify.com/artist/17TFSnqADESRM8BPSaM5aB,[],https://i.scdn.co/image/ab6761610000e5eb059403637d81e8e27e4ab215,63
+64H8UqGLbJFHwKtGxiV8OP,THE ANXIETY,1,https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP,['modern alternative pop'],https://i.scdn.co/image/ab6761610000e5eb9a34535a8a1881e125b2eee5,58
+5tmIY9i8K8wb2yaoIqF7Hy,heyboy,1,https://open.spotify.com/artist/5tmIY9i8K8wb2yaoIqF7Hy,[],https://i.scdn.co/image/ab6761610000e5eb7e7ac801d211d4ac6c09e913,16
+17EpO9pUubOAhnTopBgQYR,The Light the Heat,1,https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR,"['indiecoustica', 'modern indie folk']",https://i.scdn.co/image/ab6761610000e5eb04131a22e11c8121902720f6,41
+647D92XNDYTUt5A0idePJ4,Fleurie,1,https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4,['nashville singer-songwriter'],https://i.scdn.co/image/ab6761610000e5ebe04989f513a10aaab746186c,60
+63MQldklfxkjYDoUE4Tppz,M83,1,https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz,"['french shoegaze', 'french synthpop', 'indietronica', 'metropopolis', 'neo-synthpop']",https://i.scdn.co/image/ab6761610000e5ebfdb74f864a7a2cca6014a8a6,70
+62vRPmO2KknlG5VCefR1D3,Bruce Haack,1,https://open.spotify.com/artist/62vRPmO2KknlG5VCefR1D3,"['canadian psychedelic', 'hauntology', 'moog', 'zolo']",https://i.scdn.co/image/ab67616d0000b27386b6b868131ba519a30c01b9,24
+61pvU6ZLOF3bl0IOtbmME7,Emelie Hollow,1,https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7,['norwegian pop'],https://i.scdn.co/image/ab6761610000e5eb5dca53475c7f6daaee5fdb0d,58
+0yRC5n90spXG0d3aiDQ0vB,Gulzar,1,https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB,"['classic bollywood', 'filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb27444a2555c1538c36d54c61,63
+61if35zz1W11GejEkxTLEQ,Benny Dayal,1,https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5ebbbbde5038f6dd11a9bea4cd8,70
+61JrslREXq98hurYL2hYoc,Lata Mangeshkar,1,https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc,"['classic bollywood', 'filmi', 'lata']",https://i.scdn.co/image/ab6761610000e5eba0199b159c0c5a9f62333d32,75
+60rpJ9SgigSd16DOAG7GSa,Billy Ray Cyrus,1,https://open.spotify.com/artist/60rpJ9SgigSd16DOAG7GSa,['country rock'],https://i.scdn.co/image/ab6761610000e5eb440230373e8ffaf11c36f96d,61
+6064pL9Hu3Wx2bwJMeOx6o,Tomine Harket,1,https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o,[],https://i.scdn.co/image/ab6761610000e5ebe64c2565f2e2f3022ef5ac29,55
+5yPVuutf3WAXUt1VqDaN1t,Chapter & Verse,1,https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t,"['tech house', 'uk tech house']",https://i.scdn.co/image/ab6761610000e5eb747b833e642ec115e762f030,48
+5yNWJmmYuHYXHhkwOYrmTb,Ann Marr,1,https://open.spotify.com/artist/5yNWJmmYuHYXHhkwOYrmTb,[],https://i.scdn.co/image/ab6761610000e5ebea6819a9a752dd3dbd2bb6f8,15
+16AILHA3N2C3ngRuR2FdfH,Saint Harison,1,https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH,[],https://i.scdn.co/image/ab6761610000e5eb3cf969927b430fb9119f9381,48
+171DdDPZfx0xAkDbuOYZqV,Cliston Martis,1,https://open.spotify.com/artist/171DdDPZfx0xAkDbuOYZqV,[],https://i.scdn.co/image/ab6761610000e5ebc995ff5b29a72822825fd31d,0
+5xWycgZa4Oul2kU6o1QVo7,Beachcrimes,1,https://open.spotify.com/artist/5xWycgZa4Oul2kU6o1QVo7,[],https://i.scdn.co/image/ab6761610000e5ebbea596267602803fd5fe47c4,48
+5xKp3UyavIBUsGy3DQdXeF,A Great Big World,1,https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF,"['neo mellow', 'piano rock', 'pop rock', 'viral pop']",https://i.scdn.co/image/ab6761610000e5eb46416642da7b30327821d26e,60
+5uuqghaOBgtv92jDyDveQl,Frances Forever,1,https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl,"['bedroom pop', 'indie pop']",https://i.scdn.co/image/ab6761610000e5eb406bd9f477e14d39fb06bf19,49
+5wJ1H6ud777odtZl5gG507,Vishal Mishra,1,https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507,"['desi pop', 'filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb6220fc5e958ab498b96f5835,77
+5vdQaS4RKtL7t7n6Php6A5,Vasuki Vaibhav,1,https://open.spotify.com/artist/5vdQaS4RKtL7t7n6Php6A5,['sandalwood'],https://i.scdn.co/image/ab6761610000e5eb452745a77f8da425a3e729a0,49
+67XhYQdsOZOpJbHkKB2Jj0,Bhadrankar,1,https://open.spotify.com/artist/67XhYQdsOZOpJbHkKB2Jj0,[],https://i.scdn.co/image/ab6761610000e5eba8c1c86897cc6de18ead8978,5
+19MVxKZZdPj2X0F8pi0OCT,Sukhwinder Singh,1,https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5ebc89e803f887e3829819bf82a,68
+19SmlbABtI4bXz864MLqOS,Carl Cox,1,https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS,"['house', 'schranz', 'uk tech house']",https://i.scdn.co/image/ab6761610000e5eb6c21953cc4157aa2f4627ff3,53
+19eLuQmk9aCobbVDHc6eek,Louis Armstrong,1,https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek,"['adult standards', 'dixieland', 'harlem renaissance', 'jazz trumpet', 'new orleans jazz', 'soul', 'swing', 'vocal jazz']",https://i.scdn.co/image/ab6772690000c46c4a0e9d5e55f9f3721c3243c5,70
+6LEG9Ld1aLImEFEVHdWNSB,AP Dhillon,1,https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB,"['desi pop', 'punjabi hip hop', 'punjabi pop']",https://i.scdn.co/image/ab6761610000e5ebc81f480a6da366f051cf74cc,73
+10SWKFfcdzGtbmABepnobA,Jackie Legere,1,https://open.spotify.com/artist/10SWKFfcdzGtbmABepnobA,['gospel r&b'],https://i.scdn.co/image/ab6761610000e5eb6290e98243e50fecae43f4b6,32
+6J7rw7NELJUCThPbAfyLIE,The Civil Wars,1,https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE,"['acoustic pop', 'indie folk', 'neo mellow', 'new americana', 'stomp and holler']",https://i.scdn.co/image/ab6761610000e5eb0bae8ba82eaf7e63af515c9f,54
+5v7vltpsQtS0Tl2UoJFeyi,Gud Kid,1,https://open.spotify.com/artist/5v7vltpsQtS0Tl2UoJFeyi,['goa hip hop'],https://i.scdn.co/image/ab6761610000e5eb909708a4f1fee376be6ac355,0
+5p9HO3XC5P3BLxJs5Mtrhm,Djo,1,https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm,"['indie pop', 'pov: indie', 'psychedelic pop']",https://i.scdn.co/image/ab6761610000e5eb02fcc327683d53bea9583c69,74
+6H8pKYxkF2q0vUmSNwmrL3,Nikita Nigam,1,https://open.spotify.com/artist/6H8pKYxkF2q0vUmSNwmrL3,[],,44
+1CEAub995YWOgidBxegP2p,Nina Harries,1,https://open.spotify.com/artist/1CEAub995YWOgidBxegP2p,[],https://i.scdn.co/image/ab6761610000e5ebd5306abaae79afabeba7b381,3
+6GkJh85o22LfD2vgL9DP6f,Dirty Heads,1,https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f,"['reggae fusion', 'reggae rock']",https://i.scdn.co/image/ab6761610000e5ebd8e5e7a99216ee220c49446f,62
+1BIAyVQxDuYrMqZ8H1Faja,S.P. Charan,1,https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja,"['classic kollywood', 'filmi']",https://i.scdn.co/image/ab6761610000e5eb51edae3c6c669b66d1c2d34e,61
+11TlWPqyDFLHGccTFQhcc6,College,1,https://open.spotify.com/artist/11TlWPqyDFLHGccTFQhcc6,"['nantes indie', 'popwave']",https://i.scdn.co/image/ab6761610000e5eb04443b3dfc7b35403ceeb599,49
+6G1yTgvoYsuVb2Ja8cVVJ2,anders,1,https://open.spotify.com/artist/6G1yTgvoYsuVb2Ja8cVVJ2,"['canadian contemporary r&b', 'canadian hip hop', 'trap soul']",https://i.scdn.co/image/ab6761610000e5ebd92f2fa7051588fce02e245f,48
+6FBH11zqgRBtXPVosGXZPq,Mauryans,1,https://open.spotify.com/artist/6FBH11zqgRBtXPVosGXZPq,[],https://i.scdn.co/image/ab6761610000e5eb00a69aa149bc3b280eb422d3,0
+6Dd3NScHWwnW6obMFbl1BH,Daya,1,https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH,"['alt z', 'pop']",https://i.scdn.co/image/ab6761610000e5ebec8fc3ab9894dc3f5afef6f6,68
+5pUo3fmmHT8bhCyHE52hA6,Liam Payne,1,https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6,['pop'],https://i.scdn.co/image/ab6761610000e5eb4b2a3fffa1076ea1c920dcb2,63
+6DPYiyq5kWVQS4RGwxzPC7,Dr. Dre,1,https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7,"['g funk', 'gangster rap', 'hip hop', 'rap', 'west coast rap']",https://i.scdn.co/image/83d2489cade1dadcdc533ddbcd74993d0ca6d4cb,79
+6DIS6PRrLS3wbnZsf7vYic,WALK THE MOON,1,https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic,"['dance rock', 'modern alternative rock', 'modern rock', 'neo mellow', 'pop rock']",https://i.scdn.co/image/ab6761610000e5ebab9610e36fae856c0fd9b46b,68
+11w66sb6c5vljMpHqM4cyq,Abhinandan Mahishale,1,https://open.spotify.com/artist/11w66sb6c5vljMpHqM4cyq,[],https://i.scdn.co/image/ab6761610000e5eb8d40813c95c903ca8f0a2ddc,33
+6C1ohJrd5VydigQtaGy5Wa,Joyner Lucas,1,https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa,"['boston hip hop', 'hip hop', 'pop rap', 'rap']",https://i.scdn.co/image/ab6761610000e5ebaf819bd1b0eb53368ac96607,68
+6BrvowZBreEkXzJQMpL174,Hardwell,1,https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174,"['big room', 'dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house', 'progressive house']",https://i.scdn.co/image/ab6761610000e5eb65136609a4980a953d64f552,66
+12Zk1DFhCbHY6v3xep2ZjI,070 Shake,1,https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI,['new jersey rap'],https://i.scdn.co/image/ab6761610000e5eb6338990250f5d5a447650ba9,70
+6AwwLwgIsTIXZ8kHWaZUj5,Sandesh Shandilya,1,https://open.spotify.com/artist/6AwwLwgIsTIXZ8kHWaZUj5,"['afghan pop', 'filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5ebc628d4fd2ae26aeaa35573ab,52
+12knc5DPOIJKd0qEeYaDVm,Joseph Tilley,1,https://open.spotify.com/artist/12knc5DPOIJKd0qEeYaDVm,['indie electropop'],https://i.scdn.co/image/ab6761610000e5eb18f7ca299b125104a91de091,50
+5r2baeTwcCJnuIsDIlxUJo,Rashmi Virag,1,https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo,"['desi pop', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5ebc6faf64a7c29bb60ed043ed8,67
+6AMd49uBDJfhf30Ak2QR5s,Coi Leray,1,https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s,"['new jersey underground rap', 'trap queen']",https://i.scdn.co/image/ab6761610000e5eb795706f5590d9ef4d5838516,72
+69MEO1AADKg1IZrq2XLzo5,UB40,1,https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5,"['reggae fusion', 'uk reggae']",https://i.scdn.co/image/ab6761610000e5ebc83eb76e972697256cd12762,68
+12l1SqSNsg2mI2IcXpPWjR,M. M. Keeravani,1,https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR,['vintage tollywood'],https://i.scdn.co/image/ab6761610000e5ebb3c531aa2e267275f7969e63,58
+6dqohi36avY0M9urnyhITr,Luvli,1,https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr,[],https://i.scdn.co/image/ab6761610000e5eb462ed9c9989bd377206e1661,63
+69761NObDw2KwmmFgZmxzC,Lexi Jayde,1,https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC,['alt z'],https://i.scdn.co/image/ab6761610000e5eb9ac6cba146568461099695f7,53
+6jNwV0P142cXxXanOl9Ylo,APEK,1,https://open.spotify.com/artist/6jNwV0P142cXxXanOl9Ylo,"['pop edm', 'sky room']",https://i.scdn.co/image/ab6761610000e5ebc33c894884eaecfbaf9a60fe,33
+6dxbsVBLykNgOpP0DxjMR4,Anthony de la Torre,1,https://open.spotify.com/artist/6dxbsVBLykNgOpP0DxjMR4,[],https://i.scdn.co/image/ab6761610000e5eb0a1798c20f754b414332ec51,37
+0IwlY33zbBXN7zlS9DP2Cj,Nico,1,https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj,"['experimental', 'melancholia', 'singer-songwriter']",https://i.scdn.co/image/677676052b80931c35666be501d1f0d5c97397c9,59
+7KHA7OOevgTDFhlym0oEyP,Adriana Proenza,1,https://open.spotify.com/artist/7KHA7OOevgTDFhlym0oEyP,['spanish indie pop'],https://i.scdn.co/image/ab6761610000e5ebdcf08d7b137c2ef14dc1aea5,55
+0MeLMJJcouYXCymQSHPn8g,Sleeping At Last,1,https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g,"['ambient worship', 'chamber pop']",https://i.scdn.co/image/ab6761610000e5eb4a32bec7d51c0ca91969987e,68
+7M1FPw29m5FbicYzS2xdpi,King Crimson,1,https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi,"['art rock', 'instrumental rock', 'jazz rock', 'progressive rock', 'psychedelic rock', 'symphonic rock', 'zolo']",https://i.scdn.co/image/ab6761610000e5eb7c1c2fcf5a73dbfa60a40a18,53
+7a4KLsbi1owiwvujXOsEN6,Gold Flow,1,https://open.spotify.com/artist/7a4KLsbi1owiwvujXOsEN6,[],https://i.scdn.co/image/ab67616d0000b273a2d2c01d52969ec2721cd5af,19
+7aBzpmFXB4WWpPl2F7RjBe,Wyclef Jean,1,https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe,['rap kreyol'],https://i.scdn.co/image/ab6761610000e5ebad53e714cc3481bd069bfc93,70
+0LcJLqbBmaGUft1e9Mm8HV,ABBA,1,https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV,"['europop', 'swedish pop']",https://i.scdn.co/image/ab6761610000e5eb124eba6bf3476404531bd7b2,80
+7bXgB6jMjp9ATFy66eO08Z,Chris Brown,1,https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z,"['r&b', 'rap']",https://i.scdn.co/image/ab6761610000e5eba48397e590a1c70e2cda7728,86
+7bcbShaqKdcyjnmv4Ix8j6,St. Vincent,1,https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6,"['art pop', 'etherpop', 'indie rock', 'indietronica', 'metropopolis', 'neo-synthpop']",https://i.scdn.co/image/ab6761610000e5ebbb8bc9aace3d4d39d7cfd6f1,62
+7blXVKBSxdFZsIqlhdViKc,Valley,1,https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc,"['hopebeat', 'indietronica', 'singer-songwriter pop']",https://i.scdn.co/image/ab6761610000e5ebba960b123d9f0fe54e745c5c,56
+7bp2lSdh12wcA8LyB1srfJ,Sofia Carson,1,https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ,['pop'],https://i.scdn.co/image/ab6761610000e5eba26cb5b1e204b1049ec4d6cb,66
+0LQoZQIV0mIs0y0XQb0Sw2,Chris Martin,1,https://open.spotify.com/artist/0LQoZQIV0mIs0y0XQb0Sw2,[],https://i.scdn.co/image/ab6761610000e5eb45de7ab990a1246c812128b6,66
+0L8ExT028jH3ddEcZwqJJ5,Red Hot Chili Peppers,1,https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5,"['alternative rock', 'funk metal', 'funk rock', 'permanent wave', 'rock']",https://i.scdn.co/image/ab6761610000e5ebc33cc15260b767ddec982ce8,82
+7fIvjotigTGWqjIz6EP1i4,Four Tops,1,https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4,"['classic soul', 'disco', 'motown', 'quiet storm', 'soul']",https://i.scdn.co/image/b4cebe6215c58efaf06407961a99c458e537050a,64
+0JSCWkJNFGt7o4YbYcplQ7,slater,1,https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7,[],https://i.scdn.co/image/ab6761610000e5eb54a92a3aa0efaf1bd1889604,56
+0JDVDA5aG4Y2wXylqghzC6,LoveLeo,1,https://open.spotify.com/artist/0JDVDA5aG4Y2wXylqghzC6,['modern indie pop'],https://i.scdn.co/image/ab6761610000e5ebcbdebc26915c766fec369492,38
+7JhOzFlNJjcRrFan1wlwYB,John Mark Nelson,1,https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB,['minneapolis indie'],https://i.scdn.co/image/ab6761610000e5eb1ce59b2344a4cd38eb227c04,40
+7J2gs5q2wLq6lU4q4wkyuV,Momina Mustehsan,1,https://open.spotify.com/artist/7J2gs5q2wLq6lU4q4wkyuV,"['classic pakistani pop', 'pakistani pop', 'sufi']",https://i.scdn.co/image/ab6761610000e5ebf4d6a04ac981e6981de335ad,55
+0MlOPi3zIDMVrfA9R04Fe3,American Authors,1,https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3,"['modern rock', 'pop rock']",https://i.scdn.co/image/ab6761610000e5eb76fa6126d926bd6302239aba,65
+7EQ0qTo7fWT7DPxmxtSYEc,Bastille,1,https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc,"['metropopolis', 'modern rock', 'pop']",https://i.scdn.co/image/ab6761610000e5eb8adcc86be23d2ed5b922d9f9,75
+0Tob4H0FLtEONHU1MjpUEp,Tinie Tempah,1,https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp,"['dance pop', 'grime', 'pop rap']",https://i.scdn.co/image/ab6761610000e5ebb3ba872f2db68e17e01d3cbd,63
+7D5oTJSXSHf51auG0106CQ,Benjamin Francis Leftwich,1,https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ,"['acoustic pop', 'indie anthem-folk', 'indie folk', 'york indie']",https://i.scdn.co/image/ab6761610000e5eb820cf7e3dbed55c5a6ce8d93,48
+7DEEdECD1353gERRaJlzoE,Mr. Tribe,1,https://open.spotify.com/artist/7DEEdECD1353gERRaJlzoE,['nagpuri pop'],https://i.scdn.co/image/ab6761610000e5eb7179a273cf77d6bc71102e42,7
+0SwO7SWeDHJijQ3XNS7xEE,MGMT,1,https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE,"['alternative rock', 'indie rock', 'indietronica', 'modern rock', 'rock']",https://i.scdn.co/image/ab6761610000e5eb9dccdc8f4087cbe2bdedc9d3,74
+0SrIPejckovMwhrN3MZFPB,Daisy the Great,1,https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB,['brooklyn indie'],https://i.scdn.co/image/ab6761610000e5ebb36087140784f127f95ff284,49
+7EK1bQADBoqbYXnT4Cqv9w,John Denver,1,https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w,"['classic country pop', 'folk', 'folk rock', 'mellow gold', 'singer-songwriter', 'soft rock']",https://i.scdn.co/image/ab6761610000e5eb748322a35cb459c837d5ac9e,68
+0SfsnGyD8FpIN4U4WCkBZ5,Armin van Buuren,1,https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5,"['dutch trance', 'edm', 'pop dance', 'progressive house', 'trance']",https://i.scdn.co/image/ab6761610000e5eb5328c468cef8019bc41b63a8,74
+0ONHkAv9pCAFxb0zJwDNTy,Pusha T,1,https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy,"['gangster rap', 'hip hop', 'pop rap', 'rap', 'southern hip hop', 'trap', 'virginia hip hop']",https://i.scdn.co/image/ab6761610000e5ebc5b88a3924d8318f25f20594,73
+0RkqytrwoGyXGvDiZwT6i2,Michael Andrews,1,https://open.spotify.com/artist/0RkqytrwoGyXGvDiZwT6i2,['soundtrack'],https://i.scdn.co/image/ab6761610000e5eb8f9c3f0a123aecf196868c9c,51
+7G1GBhoKtEPnP86X2PvEYO,Nina Simone,1,https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO,"['jazz blues', 'neo soul', 'soul', 'soul jazz', 'torch song', 'vocal jazz']",https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56,69
+7H0Xu8hdP0tjpZ6z4dHquW,Sofia Mills,1,https://open.spotify.com/artist/7H0Xu8hdP0tjpZ6z4dHquW,[],https://i.scdn.co/image/ab6761610000e5ebc0e4ed4c503ddd79522bcf72,48
+0QHgL1lAIqAw0HtD7YldmP,DJ Khaled,1,https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP,"['hip hop', 'miami hip hop', 'pop rap', 'rap']",https://i.scdn.co/image/ab6761610000e5eb084f36c2ae2da4a02494e1e5,75
+7HBai5xymOxIWoMWvWshe1,Teriyaki Boyz,1,https://open.spotify.com/artist/7HBai5xymOxIWoMWvWshe1,['japanese old school hip hop'],https://i.scdn.co/image/ab67616d0000b273aac3b3863e8f7a43a9b65a19,57
+0OS0NZnK7TGIAWx8MkWNFN,Intense,1,https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN,['punjabi pop'],https://i.scdn.co/image/ab6761610000e5ebc1aa831a3a1afdd455c71f8b,66
+7gP3bB2nilZXLfPHJhMdvc,Foster The People,1,https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc,"['indietronica', 'modern alternative rock', 'modern rock', 'rock']",https://i.scdn.co/image/ab6761610000e5ebb5a3c9a9ca40824e0f44ea78,70
+7guDJrEfX3qb6FEbdPA5qi,Stevie Wonder,1,https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi,"['motown', 'soul']",https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108,75
+79jLfgFhHUi7kFoxNb8ahR,Rapture,1,https://open.spotify.com/artist/79jLfgFhHUi7kFoxNb8ahR,[],https://i.scdn.co/image/ab6761610000e5eb79f2fe445c70f70479e55271,2
+7gwFyiyf28jkTxi4NJc82e,Madhav Krishna,1,https://open.spotify.com/artist/7gwFyiyf28jkTxi4NJc82e,[],https://i.scdn.co/image/ab67616d0000b27370baa61b814e0dc57e6fd1da,29
+7r2uG6BlFXKcwmh9ItqlII,Wrabel,1,https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII,"['alt z', 'indie poptimism']",https://i.scdn.co/image/ab6761610000e5ebdad9bc0fe4b969814756b3c6,58
+7r3gH36F9O5GtmYPYymtLK,coldbrew,1,https://open.spotify.com/artist/7r3gH36F9O5GtmYPYymtLK,[],https://i.scdn.co/image/ab6761610000e5eb487bab123fce43e03f19a6d5,45
+7rKnoYexRQgOhdwElQSTl6,rhianne,1,https://open.spotify.com/artist/7rKnoYexRQgOhdwElQSTl6,[],https://i.scdn.co/image/ab6761610000e5eb48b27e55dc710716d75dc985,47
+7rkW85dBwwrJtlHRDkJDAC,NAV,1,https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC,"['canadian hip hop', 'canadian trap', 'melodic rap', 'rap', 'trap']",https://i.scdn.co/image/ab6761610000e5ebf276b6e4b25bb6fb7b942ab2,72
+7ry8L53T4oJtSIogGYuioq,NTO,1,https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq,"['deep euro house', 'minimal melodic techno', 'new french touch']",https://i.scdn.co/image/ab6761610000e5eb79e24bba6766ca7f7d2f01a0,56
+7sOR7gk6XUlGnxj3p9F54k,half•alive,1,https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k,"['alt z', 'pov: indie']",https://i.scdn.co/image/ab6761610000e5ebef6fc1d1e5d9e55fae0c9bad,57
+01kwpdxNuOyzbfJ0ET7osn,Folk Uke,1,https://open.spotify.com/artist/01kwpdxNuOyzbfJ0ET7osn,['ukulele'],https://i.scdn.co/image/ab6761610000e5ebdaa71abf590e0b002b613a81,14
+7tRXG934ruoJ3SAKzCa5ap,MARC,1,https://open.spotify.com/artist/7tRXG934ruoJ3SAKzCa5ap,['deep pop edm'],https://i.scdn.co/image/ab6761610000e5eb2ea7fd722fbe4753a0c22dd5,24
+7tYKF4w9nC0nq9CsPZTHyP,SZA,1,https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP,"['pop', 'r&b', 'rap']",https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65,90
+7ti25GJHIRWZ5f1WN0T2zO,Gravity,1,https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO,"['desi hip hop', 'hindi hip hop', 'indian underground rap']",https://i.scdn.co/image/ab6761610000e5ebc41d43f43fdb5c3e99cfd97e,44
+7uas0F5EhsZg6KDJ7yy7rW,DallasK,1,https://open.spotify.com/artist/7uas0F5EhsZg6KDJ7yy7rW,"['complextro', 'dutch house', 'electro house', 'pop edm', 'progressive electro house', 'sky room']",https://i.scdn.co/image/ab6761610000e5ebc6a55244f19e8f6461f08357,48
+01J0GVASUWsZkalXZQLVYM,Miles Betterman,1,https://open.spotify.com/artist/01J0GVASUWsZkalXZQLVYM,[],https://i.scdn.co/image/ab67616d0000b27300d5aadff7f0ce48efa6d32d,13
+7wLyGTO9vUS7ndlq4BvBGe,Blake Rose,1,https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe,"['australian electropop', 'singer-songwriter pop']",https://i.scdn.co/image/ab6761610000e5eb5ab5a15dde9d72300acb5638,51
+7xEFii6utZmQ61kX59HmLH,FRENSHIP,1,https://open.spotify.com/artist/7xEFii6utZmQ61kX59HmLH,"['electropop', 'indie poptimism', 'la pop']",https://i.scdn.co/image/ab6761610000e5ebf1aedb0338b4298d05280079,52
+7z9m1sy0FnEgIuwOhrtn7C,Jason Dering,1,https://open.spotify.com/artist/7z9m1sy0FnEgIuwOhrtn7C,[],https://i.scdn.co/image/ab6761610000e5eb578fdb06a2e31dc13875de8e,27
+7r1VJ53RGn5jqR98Sgpe9l,Elli Eli,1,https://open.spotify.com/artist/7r1VJ53RGn5jqR98Sgpe9l,[],https://i.scdn.co/image/ab67616d0000b273bc4b0f35de11e25b29a0746c,2
+7qRll6DYV06u2VuRPAVqug,Foxes,1,https://open.spotify.com/artist/7qRll6DYV06u2VuRPAVqug,"['electropop', 'metropopolis', 'uk pop']",https://i.scdn.co/image/ab6761610000e5ebadb663c00fcc431448abfcb4,59
+03tes5RhEvH2dX2eDeGnRn,Age Of Love,1,https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn,['bubble trance'],https://i.scdn.co/image/ab67616d0000b273200168b7e09a5fc58af484df,52
+7mC3RkNNTV6p2j9w4F8Ip4,Layton Giordani,1,https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4,['dark techno'],https://i.scdn.co/image/ab6761610000e5eb0c06ffa45bfc4f38e68d82fc,50
+0GlE0oxdKhuakcFHkeZ7fR,Abdullah Kasumbi,1,https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR,[],https://i.scdn.co/image/ab6761610000e5ebcde443343f1ad092938074e7,46
+7h8ja4JSORo2sXJPmCXRxa,Immortal Technique,1,https://open.spotify.com/artist/7h8ja4JSORo2sXJPmCXRxa,"['conscious hip hop', 'east coast hip hop', 'hardcore hip hop', 'harlem hip hop', 'political hip hop']",https://i.scdn.co/image/ab6761610000e5eb3ef26ad9da922d14fa7b1ff6,53
+0E40uIburFL0cA9OUgUghm,ARUN YDV,1,https://open.spotify.com/artist/0E40uIburFL0cA9OUgUghm,[],https://i.scdn.co/image/ab6761610000e5ebfc38f07d67467b51147cd4fa,4
+7jgOOSGT9VG1PSH90uFx43,Sangeetha Ravindranath,1,https://open.spotify.com/artist/7jgOOSGT9VG1PSH90uFx43,['sandalwood'],https://i.scdn.co/image/ab6761610000e5eb8f0270c9dee342c104e0e894,39
+7kjSuFGKhLm8b5qXoMhRkJ,Libianca,1,https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ,['afrobeats'],https://i.scdn.co/image/ab6761610000e5eb578a4132b6d4cd7c86de89f6,67
+7lUEi4XSbnhAdm2cTf0QJU,Krishna.K,1,https://open.spotify.com/artist/7lUEi4XSbnhAdm2cTf0QJU,['chennai indie'],https://i.scdn.co/image/ab6761610000e5eb112a48d9a6f5f07e0cdc6261,23
+7mDU6nMUJnOSY2Hkjz5oqM,Roy Woods,1,https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM,"['canadian contemporary r&b', 'canadian hip hop']",https://i.scdn.co/image/ab6761610000e5eb616eb24d5f92b0262dbfe0ef,60
+08GQAI4eElDnROBrJRGE0X,Fleetwood Mac,1,https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X,"['album rock', 'classic rock', 'rock', 'soft rock', 'yacht rock']",https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8,81
+0D6BtvIkN3P9GHTa8KR24t,EVAN GIIA,1,https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t,['nyc pop'],https://i.scdn.co/image/ab6761610000e5eb66732aad8637399ab689792e,50
+7nJNuftnqwrFGFs3ZRRe0u,MEMBA,1,https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u,"['indian edm', 'traprun', 'vapor twitch']",https://i.scdn.co/image/ab6761610000e5eb922c6985d600ead2ec232158,51
+7nwUJBm0HE4ZxD3f5cy5ok,Aretha Franklin,1,https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok,"['classic soul', 'jazz blues', 'memphis soul', 'neo soul', 'soul', 'southern soul', 'vocal jazz']",https://i.scdn.co/image/ab6761610000e5ebf12270128127ba170f90097d,70
+0Cp8WN4V8Tu4QJQwCN5Md4,BENEE,1,https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4,"['alt z', 'nz pop']",https://i.scdn.co/image/ab6761610000e5eb2f6ab788596dde72644519d1,63
+7o7doCwqft91WC690aglWC,Sanam,1,https://open.spotify.com/artist/7o7doCwqft91WC690aglWC,['desi pop'],https://i.scdn.co/image/ab6761610000e5eb84ae6fdf6d93a510811ba356,63
+0AHysaqWv1LHwqk5P5lTMX,Himonshu Parikh,1,https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX,['desi pop'],https://i.scdn.co/image/ab6761610000e5eb1f52b16f9684d07c837ed68f,37
+79sho4jpEGoCCC51KHnNSJ,Naresh Kamath,1,https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ,['modern bollywood'],https://i.scdn.co/image/ab67616d0000b2732849d5f5c202ed936caf66c3,58
+0VbIlorLz3I5SEtIsc5vAr,Queen Pen,1,https://open.spotify.com/artist/0VbIlorLz3I5SEtIsc5vAr,"['hip pop', 'lgbtq+ hip hop']",https://i.scdn.co/image/ff4eabfc6691a25a8b43782e80a0ba0781f09a68,60
+6eYFryfcEu3QSq59D62wZQ,Brendon Urie,1,https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ,[],https://i.scdn.co/image/ab6761610000e5eb5f32a5ef76b9480c601f256f,62
+6spTcexl1jDSkDzuewoQbX,Swarathma,1,https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX,"['bangalore indie', 'hindi indie', 'indian folk', 'indian fusion', 'indian indie', 'indian rock']",https://i.scdn.co/image/ab6761610000e5ebe5cfeda710e40971f250f759,18
+0kmtdziYTHrKtoHlGElunM,Falak Shabbir,1,https://open.spotify.com/artist/0kmtdziYTHrKtoHlGElunM,"['classic pakistani pop', 'desi pop', 'pakistani pop', 'sufi']",https://i.scdn.co/image/ab6761610000e5ebfa0fc3290e0cf01164793b00,53
+0kkxsdcaWmWU2yWAqclDh4,Rixton,1,https://open.spotify.com/artist/0kkxsdcaWmWU2yWAqclDh4,"['post-teen pop', 'talent show', 'teen pop', 'viral pop']",https://i.scdn.co/image/ab6761610000e5eba9add5f319d70026d4f3b8a1,60
+0kbYTNQb4Pb1rPbbaF0pT4,Miles Davis,1,https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4,"['cool jazz', 'hard bop', 'jazz', 'jazz fusion', 'jazz trumpet', 'soul', 'vocal jazz']",https://i.scdn.co/image/423e826b3c1b23930a255d7cbc2daf733f795507,62
+6lmh39rgGhNXGkrNHKRlhO,Joey Kidney,1,https://open.spotify.com/artist/6lmh39rgGhNXGkrNHKRlhO,[],https://i.scdn.co/image/ab6761610000e5ebfc26fe53e9b516c2ae8e0a11,30
+0kTAB5SUakX286t6K7J3QR,Dikshant,1,https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR,['indian singer-songwriter'],https://i.scdn.co/image/ab6761610000e5ebf66df4af0306cb920f402387,53
+6nS5roXSAGhTGr34W6n7Et,Disclosure,1,https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et,"['edm', 'house', 'indietronica', 'uk dance']",https://i.scdn.co/image/ab6761610000e5ebc7150fb3cbf60e201ae90840,72
+6oBm8HB0yfrIc9IHbxs6in,Lykke Li,1,https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in,"['electropop', 'indietronica', 'neo-synthpop', 'swedish electropop', 'swedish indie pop', 'swedish pop']",https://i.scdn.co/image/ab6761610000e5eb0bf8a86c8e3a34bb4934abb7,68
+0jPnVIasXzBYjrlpO5irii,Ingrid Andress,1,https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii,"['contemporary country', 'country pop']",https://i.scdn.co/image/ab6761610000e5eb75368099c5fc12bf9f1b5deb,56
+6oeSQ4qmDQ7n89Rdt6tLLn,Rav,1,https://open.spotify.com/artist/6oeSQ4qmDQ7n89Rdt6tLLn,['lo-fi rap'],https://i.scdn.co/image/ab6761610000e5ebde9a7f11835c33b826a1a866,51
+0iqFHwswV50GDerCAjulem,Mohan Kannan,1,https://open.spotify.com/artist/0iqFHwswV50GDerCAjulem,['modern bollywood'],https://i.scdn.co/image/ab6761610000e5ebffecf2e15806000385c5af90,47
+6pgJBbF3h8R4XlwetvZ9J3,Yashita Sharma,1,https://open.spotify.com/artist/6pgJBbF3h8R4XlwetvZ9J3,['modern bollywood'],https://i.scdn.co/image/ab6761610000e5eba5135e0eec0cfb9e49efb7ca,50
+0id62QV2SZZfvBn9xpmuCl,Aloe Blacc,1,https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl,"['pop soul', 'r&b']",https://i.scdn.co/image/ab6761610000e5eb6e32f8634cccacea62a7f5ce,64
+0gqcx73XJbrIif5poxdHqt,OCTAVIO the Dweeb,1,https://open.spotify.com/artist/0gqcx73XJbrIif5poxdHqt,[],https://i.scdn.co/image/ab6761610000e5eb72f4ef919441a75803bd93d1,29
+0gDg7FEsF4Y1jWddJJgcn4,The Rembrandts,1,https://open.spotify.com/artist/0gDg7FEsF4Y1jWddJJgcn4,['pop rock'],https://i.scdn.co/image/ab6761610000e5eb203cbc1f8dbeac5b4993581a,52
+6sHCvZe1PHrOAuYlwTLNH4,Gus Dapperton,1,https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4,"['bedroom pop', 'indie poptimism', 'pov: indie']",https://i.scdn.co/image/ab6761610000e5ebf0618341e2ce028549d09cb1,59
+6k6dimE4a6OFnD0HWmkIUW,Tochi Raina,1,https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab67616d0000b27333536378541bf498cad77e84,61
+0lAWpj5szCSwM4rUMHYmrr,Måneskin,1,https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr,"['indie rock italiano', 'italian pop']",https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f,79
+1Ixc8hKrbw01MHtuP6SNUH,Neha S. Nair,1,https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH,['mollywood'],https://i.scdn.co/image/ab67616d0000b273e2a75e65f41e9a62078d583e,49
+0m3D4grap8VFSzbJMqgNVk,Kumaar,1,https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk,['modern bollywood'],https://i.scdn.co/image/ab6761610000e5eb16fed6a4df005be8a121761a,74
+0msMwWNlbZhRSsGqAQdPAs,Julia Gartha,1,https://open.spotify.com/artist/0msMwWNlbZhRSsGqAQdPAs,[],https://i.scdn.co/image/ab6761610000e5eb507a8ab0956a8e7704d36de2,28
+6fbIkBK4DW2IPnlKk9MLWS,Tia Tia,1,https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS,[],https://i.scdn.co/image/ab6761610000e5eb9034bc9e86516f754005c2d5,52
+0m5FakHKCQdA7UN0PIzMcL,Current Joys,1,https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL,"['lo-fi indie', 'pov: indie']",https://i.scdn.co/image/ab6761610000e5eb268ad6ebc1d6008fe6d89d74,68
+6gIqKYKRmltKfkTnxhMv8V,Hasan Raheem,1,https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V,"['pakistani indie', 'urdu hip hop']",https://i.scdn.co/image/ab6761610000e5ebeaa4f0b2787ecc97a87d5457,60
+6ghiFYcwn2Vzl6K50U0UPz,Michael Ray,1,https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz,"['contemporary country', 'country road', 'modern country rock']",https://i.scdn.co/image/ab6761610000e5eba4abe8e3cb7de15d6a8543f7,50
+6gpY6HHTGZp0sTLsxsSNqo,Torine,1,https://open.spotify.com/artist/6gpY6HHTGZp0sTLsxsSNqo,[],https://i.scdn.co/image/ab6761610000e5eb32a3f57fb7d6f0de75c382c4,42
+6i50rQJbETLRREwFn3plcw,Lifafa,1,https://open.spotify.com/artist/6i50rQJbETLRREwFn3plcw,"['hindi indie', 'indian electronic', 'indian indie', 'new delhi indie']",https://i.scdn.co/image/ab6761610000e5ebf01c139ad7adcf53b5992e0f,34
+0le3G5nxaIL8ecHpBA6LPW,Akriti Kakar,1,https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb95cdbf66079b5d40f22e5ac6,54
+6iWBjg4b4ll4jLiParnWXT,Bart Skils,1,https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT,"['deep minimal techno', 'minimal techno']",https://i.scdn.co/image/ab6761610000e5eb0827eea4a4234bcdac3ce59c,44
+6iZTyHbQWGzpiWoyI0zz9F,Priya Ragu,1,https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F,['zurich indie'],https://i.scdn.co/image/ab6761610000e5eb154bca84602d13792765f3ed,42
+6icGUGLUKCVB5esdQXdjiw,Soham,1,https://open.spotify.com/artist/6icGUGLUKCVB5esdQXdjiw,[],https://i.scdn.co/image/ab67616d0000b2731b0a3730903968e83fa1f65e,45
+6icQOAFXDZKsumw3YXyusw,Lil Yachty,1,https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw,"['atl hip hop', 'melodic rap', 'rap', 'trap']",https://i.scdn.co/image/ab6761610000e5eb86c7c38d4c8c461dba55035c,80
+6ioOEWNNGK40H8xrGj6XPW,XYLØ,1,https://open.spotify.com/artist/6ioOEWNNGK40H8xrGj6XPW,"['alt z', 'indie poptimism', 'la pop']",https://i.scdn.co/image/ab6761610000e5ebc1b725eab300ff80d30c7c1d,48
+0lsEtpjLWn4S7KBra82VG3,Aldo Ranks,1,https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3,['panamanian pop'],https://i.scdn.co/image/ab6761610000e5ebb4a6f546236c7b64c382c2f4,54
+6snkU8m506AxtvyBGXPGrc,ONEDUO,1,https://open.spotify.com/artist/6snkU8m506AxtvyBGXPGrc,[],https://i.scdn.co/image/ab6761610000e5ebe80408bdb85d89a8f4b71a36,22
+6tbjWDEIzxoDsBA1FuhfPW,Madonna,1,https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW,"['dance pop', 'pop']",https://i.scdn.co/image/ab6761610000e5eb4b36d28b55620959821f4a5b,81
+0VyV0cPzEPABNwIGAUXF9t,This Is Cosmos,1,https://open.spotify.com/artist/0VyV0cPzEPABNwIGAUXF9t,[],https://i.scdn.co/image/ab6761610000e5eb788c2612ff1ff34183c713ca,0
+6ueGR6SWhUJfvEhqkvMsVs,Janelle Monáe,1,https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs,"['afrofuturism', 'alternative r&b', 'atl hip hop', 'neo soul', 'r&b']",https://i.scdn.co/image/ab6761610000e5eb5dab878686269b7b8f4c3ab1,66
+73lIPqikyoHyWGMzEjpTQ1,Vijay Krishna Acharya,1,https://open.spotify.com/artist/73lIPqikyoHyWGMzEjpTQ1,[],https://i.scdn.co/image/ab67616d0000b2737ac7f723c0d35843a6ce163d,34
+0bdfiayQAKewqEvaU6rXCv,MØ,1,https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv,"['dance pop', 'danish pop', 'electropop', 'pop dance']",https://i.scdn.co/image/ab6761610000e5eb00b8e8166f7b921a2c6d5ca8,71
+0aXLGxJ65wok0y1bVG6flg,Vikram Montrose,1,https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg,['modern bhajan'],https://i.scdn.co/image/ab6761610000e5eb596705fb52eeea1807d83389,46
+74OaRjmyh0XyRZsQQQ5l7c,Jasleen Royal,1,https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c,"['desi pop', 'filmi', 'indian singer-songwriter', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb654603f76991dc1275e67d39,69
+74Zk4BaTpscIf6k04UoCds,JAIE,1,https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds,['bedroom soul'],https://i.scdn.co/image/ab6761610000e5ebd09321b72fd3cac4ba2dccd9,36
+0ZUvK7zGdXLd78mQr3t1Tw,Ricky Montgomery,1,https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw,"['la indie', 'pop', 'pov: indie']",https://i.scdn.co/image/ab6761610000e5ebf58e9b5e32b7478fa05c685e,68
+0Yb0T3wUUNiIvHjqnfkbuH,Mahalakshmi Iyer,1,https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH,['modern bollywood'],https://i.scdn.co/image/ab6761610000e5eb917bf7b3a0d7e8621a0bbed0,64
+76rOhzdFrZx37hyeA5cQgZ,Elena Coats,1,https://open.spotify.com/artist/76rOhzdFrZx37hyeA5cQgZ,[],https://i.scdn.co/image/ab6761610000e5ebf2606217278ca5f83fa4d892,20
+77AiFEVeAVj2ORpC85QVJs,Steve Aoki,1,https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs,"['edm', 'electro house', 'pop dance']",https://i.scdn.co/image/ab6761610000e5eb5fb007a707c0ec3a7c1726af,71
+0Y5tJX1MQlPlqiwlOH1tJY,Travis Scott,1,https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY,"['hip hop', 'rap', 'slap house']",https://i.scdn.co/image/ab6761610000e5eb19c2790744c792d05570bb71,93
+0XL6ie7a0NY5FM05b9Rn5L,Farhan Akhtar,1,https://open.spotify.com/artist/0XL6ie7a0NY5FM05b9Rn5L,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5ebad172e19a5e9c349122e1c18,55
+77qukKzmdI5BeMBR7WGUrN,Aaron Smith,1,https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN,['chicago house'],https://i.scdn.co/image/ab6761610000e5eb4e3b9e4559d3cff50dcc69cf,63
+78rUTD7y6Cy67W1RVzYs7t,PinkPantheress,1,https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t,['bedroom pop'],https://i.scdn.co/image/ab6761610000e5eb90ddbcd825c7b6142d269e26,76
+790FomKkXshlbRYZFtlgla,KAROL G,1,https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla,"['reggaeton', 'reggaeton colombiano', 'trap latino', 'urbano latino']",https://i.scdn.co/image/ab6761610000e5eb00bfcedce3845ae969c8277a,90
+79EE54kxCNXUGNtEkgo12R,Yana Blinder,1,https://open.spotify.com/artist/79EE54kxCNXUGNtEkgo12R,[],https://i.scdn.co/image/ab67616d0000b273584fc3120a0165f9baa462e6,29
+73eAAfRkS2Vi4hx68oTJJE,John K,1,https://open.spotify.com/artist/73eAAfRkS2Vi4hx68oTJJE,['singer-songwriter pop'],https://i.scdn.co/image/ab6761610000e5ebafd8cf4703e0faa00543bf58,56
+738wLrAtLtCtFOLvQBXOXp,Major Lazer,1,https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp,"['dance pop', 'edm', 'electro house', 'moombahton', 'pop', 'pop dance']",https://i.scdn.co/image/ab6761610000e5eb133f44ab343b35c715a4ac97,76
+0cTSCsVx04SSht9V6cpKN0,Mavis Staples,1,https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0,"['black americana', 'soul', 'southern soul', 'spirituals']",https://i.scdn.co/image/ab6761610000e5eb56040cbcdbe7161d9cad01ea,49
+6xQvQwZQQuq9R3TdPNbcR8,Bassjackers,1,https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8,"['dutch house', 'edm', 'electro house', 'pop dance', 'progressive electro house']",https://i.scdn.co/image/ab6761610000e5eb06d7ff8a53e228bb7131bb34,59
+6ujr1NkqbZpYOhquczUUfl,The Strumbellas,1,https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl,"['canadian indie', 'folk-pop', 'stomp and holler']",https://i.scdn.co/image/ab6761610000e5eb683999a9d0a4d9b725e989c1,56
+0gAILSEru1PKMwP0tAqNLS,Willow Sage Hart,1,https://open.spotify.com/artist/0gAILSEru1PKMwP0tAqNLS,['show tunes'],https://i.scdn.co/image/ab67616d0000b273e465904fbcc8de1920c60867,55
+6veh5zbFpm31XsPdjBgPER,BIA,1,https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER,"['rap latina', 'trap queen']",https://i.scdn.co/image/ab6761610000e5eb75758433f440d6f6265d557d,67
+6wbQXgl1sCmZncfcmdctDB,Sara Haider,1,https://open.spotify.com/artist/6wbQXgl1sCmZncfcmdctDB,['pakistani pop'],https://i.scdn.co/image/ab67616d0000b27382c0e7ff5a129189eacc7f78,21
+6wwj6pIJdMJJyDQsQVtPzR,Jess and Gabriel,1,https://open.spotify.com/artist/6wwj6pIJdMJJyDQsQVtPzR,['social media pop'],https://i.scdn.co/image/ab6761610000e5eb3e03cab52116541e91c2c942,35
+6x2LnllRG5uGarZMsD4iO8,Thomas Rhett,1,https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8,"['contemporary country', 'country', 'country road', 'modern country rock']",https://i.scdn.co/image/ab6761610000e5eb0096cad96e445e8adc22f5e7,72
+6ydoSd3N2mwgwBHtF6K7eX,Calum Scott,1,https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX,['pop'],https://i.scdn.co/image/ab6761610000e5ebc0baa35e263ad0010139a6cf,75
+0e7Xsukwik0zDaqCcSvJTg,Prasoon Joshi,1,https://open.spotify.com/artist/0e7Xsukwik0zDaqCcSvJTg,['modern bollywood'],https://i.scdn.co/image/ab67616d0000b273834d797725832f5b35cbf8e8,57
+0epOFNiUfyON9EYx7Tpr6V,The Strokes,1,https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V,"['alternative rock', 'garage rock', 'modern rock', 'permanent wave', 'rock']",https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089,75
+6zZrFenNe3YPttxZsnQQs1,Akhil,1,https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1,"['desi hip hop', 'desi pop', 'punjabi pop']",https://i.scdn.co/image/ab6761610000e5ebec20e1f55b66ea9138ff8e91,62
+6znPk9JRNmg6uyB6h8nJu3,Kaavish,1,https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3,"['classic pakistani pop', 'ghazal', 'pakistani pop', 'pakistani rock', 'sufi']",https://i.scdn.co/image/ab6761610000e5eb7bead374c81ec6c20df39c9d,46
+70B80Lwx2sxti0M1Ng9e8K,Udit Narayan,1,https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K,"['chutney', 'filmi', 'odia pop']",https://i.scdn.co/image/ab6761610000e5eb8de0e6e7e55d7773931ab7f4,78
+70cRZdQywnSFp9pnc2WTCE,Simon & Garfunkel,1,https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE,"['classic rock', 'folk', 'folk rock', 'melancholia', 'mellow gold', 'rock', 'soft rock']",https://i.scdn.co/image/afde2fdd14f8c8ca23393f257e3a369a234a24b6,71
+715OI7hiv58daVlEDXM47U,Chris Avantgarde,1,https://open.spotify.com/artist/715OI7hiv58daVlEDXM47U,['melodic house'],https://i.scdn.co/image/ab6761610000e5ebf94ebd8a3ec3e68ae25eb746,57
+1Il6lzHpFKUD52wcCmDI24,Jason Chen,1,https://open.spotify.com/artist/1Il6lzHpFKUD52wcCmDI24,['viral pop'],https://i.scdn.co/image/ab6761610000e5eb272d9d8a46a655e37040d21e,46
+5NjFXNobjTKu8ZV2lFiXRa,Matteo Vitanza,1,https://open.spotify.com/artist/5NjFXNobjTKu8ZV2lFiXRa,['italian techno'],https://i.scdn.co/image/ab6761610000e5eb2816364f3b8fef0a3444a241,19
+1JdHoZwkwOmX2Pl2iTwnzc,Vishal Bhardwaj,1,https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc,"['filmi', 'modern bollywood']",https://i.scdn.co/image/ab67616d0000b273697900b24eb6e48a78923d98,48
+2FPwX3Gh0w4Qr1v3zSTtcT,Papon,1,https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT,"['filmi', 'indian folk', 'modern bollywood']",https://i.scdn.co/image/ab6761610000e5eb0dd274246ecf6019bfac1aef,60
+3iGhlvzpXc0UHBQ7klAItX,Mitraz,1,https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX,['desi pop'],https://i.scdn.co/image/ab6761610000e5eb114583feb331ad4c0548590a,69
+3jK9MiCrA42lLAdMGUZpwa,Anderson .Paak,1,https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa,"['escape room', 'hip hop', 'indie soul', 'neo soul']",https://i.scdn.co/image/ab6761610000e5eb96287bd47570ff13f0c01496,76
+3jN7f9X0EmFnsbRS6nl6as,iamnotshane,1,https://open.spotify.com/artist/3jN7f9X0EmFnsbRS6nl6as,['singer-songwriter pop'],https://i.scdn.co/image/ab6761610000e5eb6b1c4dbeaecb9fe63aa3d5ae,51
+3jcvzSheHd14vjraXHLGPN,Belocca,1,https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN,"['dark techno', 'funky tech house', 'hungarian techno']",https://i.scdn.co/image/ab6761610000e5eb8f4059a12d849bc98a33b7e5,41
+3k1eCPRO0dE0Q9YsRfh4vn,Vijay Deverakonda,1,https://open.spotify.com/artist/3k1eCPRO0dE0Q9YsRfh4vn,[],https://i.scdn.co/image/ab67616d0000b2733c0954053cbe535b2d543660,30
+3kVUvbeRdcrqQ3oHk5hPdx,GROUPLOVE,1,https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx,"['indie rock', 'la indie', 'modern alternative rock', 'modern rock', 'pov: indie']",https://i.scdn.co/image/ab6761610000e5eb212e97916d72380d77a9db17,65
+2DlGxzQSjYe5N6G9nkYghR,Jennifer Lopez,1,https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR,"['dance pop', 'pop', 'urban contemporary']",https://i.scdn.co/image/ab6761610000e5ebaa483617f45b0652c0dbc238,75
+3mrVvdZqVDCIImSLsgAsqn,Moses Campbell,1,https://open.spotify.com/artist/3mrVvdZqVDCIImSLsgAsqn,['la indie'],https://i.scdn.co/image/ab67616d0000b27363e21acc881430a8a02d9074,23
+3nE7LwRZLoIhBM4cR750Q0,shinigxmi,1,https://open.spotify.com/artist/3nE7LwRZLoIhBM4cR750Q0,['desi trap'],https://i.scdn.co/image/ab6761610000e5eb79ddeb8e27b8cef7c20f1ded,3
+3nFkdlSjzX9mRTtwJOzDYB,JAY-Z,1,https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB,"['east coast hip hop', 'gangster rap', 'hip hop', 'pop rap', 'rap']",https://i.scdn.co/image/ab6761610000e5ebc75afcd5a9027f60eaebb5e4,83
+3oKRxpszQKUjjaHz388fVA,Parcels,1,https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA,"['aussietronica', 'indie soul']",https://i.scdn.co/image/ab6761610000e5ebd178e3af6da2eef262630ee2,64
+3oinJWo0iD7MVnojA8R8WP,Nandini Srikar,1,https://open.spotify.com/artist/3oinJWo0iD7MVnojA8R8WP,['modern bollywood'],https://i.scdn.co/image/ab67616d0000b2736046a66ee13d4cd1a66aeb80,52
+3ozYqVCLohfpXIhalkhM8D,Aditya Rikhari,1,https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D,['desi pop'],https://i.scdn.co/image/ab6761610000e5ebac6ea671edcedf8d31663b50,62
+3p6ERquKFlaSR4SOx1zjPh,Malobika Mj,1,https://open.spotify.com/artist/3p6ERquKFlaSR4SOx1zjPh,[],https://i.scdn.co/image/ab67616d0000b273e1d380373dc63c404b0a967f,22
+3pNCgNatbtoJEkbElk3hwa,Nupur Pant,1,https://open.spotify.com/artist/3pNCgNatbtoJEkbElk3hwa,[],https://i.scdn.co/image/ab6761610000e5ebd08fd70c3150ce8df5c3110d,43
+2EsnUC4uKX3AV7CGyBClmy,Griffin Lancaster,1,https://open.spotify.com/artist/2EsnUC4uKX3AV7CGyBClmy,[],,11
+3hprnpHtvBrFI09rVHkjZZ,Nikhil Vasudevan,1,https://open.spotify.com/artist/3hprnpHtvBrFI09rVHkjZZ,[],,36
+4G9uPopIJ58o4LRUMAwvuQ,Supriya Lohith,1,https://open.spotify.com/artist/4G9uPopIJ58o4LRUMAwvuQ,['sandalwood'],https://i.scdn.co/image/ab6761610000e5eb42cade564ca8df90645a4e18,36
+2FRfJyV85zb19tO6uiXBGl,sped up + slowed,1,https://open.spotify.com/artist/2FRfJyV85zb19tO6uiXBGl,['sped up'],https://i.scdn.co/image/ab6761610000e5eb8014295ef95faa30d4825dd5,66
